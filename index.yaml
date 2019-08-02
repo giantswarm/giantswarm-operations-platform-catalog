@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  vault-app:
+  - appVersion: 1.2.0
+    created: "2019-08-02T14:08:46.840143301Z"
+    digest: 7bc75b46705190f8b6c1b8e7f9ffe67bd6af93da547d7b2fcb470923fe8c066b
+    name: vault-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2019-08-02T14:08:46.83960587Z"
