@@ -17,4 +17,12 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.0.tgz
     version: 1.0.0
-generated: "2019-08-09T11:01:12.993213222Z"
+  vault-exporter:
+  - appVersion: 1.0.0
+    created: "2019-08-13T07:40:03.023354882Z"
+    digest: 3cf2cbc44a0bb5a6763cf23b8f0089ba42aaf6c5d41cce32bfa605a1bcd3af11
+    name: vault-exporter
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-exporter-1.0.0.tgz
+    version: 1.0.0
+generated: "2019-08-13T07:40:03.022855753Z"
