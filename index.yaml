@@ -42,6 +42,13 @@ entries:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/g8s-cert-manager-1.0.0.tgz
     version: 1.0.0
   opsgenie-scheduler:
+  - appVersion: 0.3.0
+    created: "2020-01-23T12:54:21.412189208Z"
+    digest: 3096d4899a59d1a5bea35d0c3c7e01839fb81ff74c91ba60bcc41f568496837e
+    name: opsgenie-scheduler
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.0.tgz
+    version: 0.3.0
   - appVersion: 0.2.0
     created: "2020-01-16T19:39:10.321666579Z"
     digest: 0fe93890d039d304d63a1f28f0f5f423fa78130b64577949dfc3056c40d3e76a
@@ -71,4 +78,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-exporter-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-23T09:22:38.405009502Z"
+generated: "2020-01-23T12:54:21.41166647Z"
