@@ -122,4 +122,15 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-exporter-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-03T14:07:28.541740948Z"
+  web-assets-app:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-02-04T08:58:37.567731263Z"
+    description: Static files used on potentially multiple web sites
+    digest: 3734ad394771c0a7ea6afc47a93452548ab415b0fa72ecc294c9f804c501366b
+    home: https://github.com/giantswarm/web-assets
+    name: web-assets-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-1.0.0-2f54088b0c86527259c4ab7563ff4409c9aa197a.tgz
+    version: 1.0.0-2f54088b0c86527259c4ab7563ff4409c9aa197a
+generated: "2020-02-04T08:58:37.567347798Z"
