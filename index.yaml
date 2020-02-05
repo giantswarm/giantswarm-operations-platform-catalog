@@ -74,6 +74,17 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/g8s-cert-manager-1.0.0.tgz
     version: 1.0.0
+  giantswarmio-nginx-app:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-02-05T10:03:18.345682637Z"
+    description: Serves redirects and a couple of static resources at https://giantswarm.io/
+    digest: 8efceb519794af60d4168e5b9e89bcb051c365b25462710f9cacec91cb6435da
+    home: https://github.com/giantswarm/giantswarmio-nginx
+    name: giantswarmio-nginx-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.1.tgz
+    version: 0.2.1
   opsgenie-scheduler:
   - appVersion: 0.3.0
     created: "2020-01-23T12:54:21.412189208Z"
@@ -133,4 +144,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-1.0.0-2f54088b0c86527259c4ab7563ff4409c9aa197a.tgz
     version: 1.0.0-2f54088b0c86527259c4ab7563ff4409c9aa197a
-generated: "2020-02-04T08:58:37.567347798Z"
+generated: "2020-02-05T10:03:18.345303781Z"
