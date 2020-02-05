@@ -53,18 +53,6 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.4.1.tgz
     version: 1.4.1
-  docs-proxy-app:
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2020-02-03T14:07:28.542377631Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
-    digest: a99eb1fa0446d0e6dc116fd3d15302b8b0644515f480979e5a0650da7b0891f9
-    home: https://github.com/giantswarm/docs-proxy
-    name: docs-proxy-app
-    urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-1.0.0-6eb7e07e8dec5cf62f115db0585161998d9b3c4f.tgz
-    version: 1.0.0-6eb7e07e8dec5cf62f115db0585161998d9b3c4f
   g8s-cert-manager:
   - appVersion: 0.9.0
     created: "2019-08-02T14:19:42.360195646Z"
@@ -133,15 +121,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-exporter-0.1.0.tgz
     version: 0.1.0
-  web-assets-app:
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2020-02-04T08:58:37.567731263Z"
-    description: Static files used on potentially multiple web sites
-    digest: 3734ad394771c0a7ea6afc47a93452548ab415b0fa72ecc294c9f804c501366b
-    home: https://github.com/giantswarm/web-assets
-    name: web-assets-app
-    urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-1.0.0-2f54088b0c86527259c4ab7563ff4409c9aa197a.tgz
-    version: 1.0.0-2f54088b0c86527259c4ab7563ff4409c9aa197a
-generated: "2020-02-05T10:03:18.345303781Z"
+generated: "2020-02-05T10:08:00.000000000Z"
