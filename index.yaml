@@ -148,6 +148,16 @@ entries:
   giantswarmio-nginx-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2020-02-21T08:15:11.500389541Z"
+    description: Serves redirects and a couple of static resources at https://giantswarm.io/
+    digest: 3b7ff36fef955c789d53104376f251974041333bdcbcbb391fd4f793c24dff24
+    home: https://github.com/giantswarm/giantswarmio-nginx
+    name: giantswarmio-nginx-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2020-02-05T10:03:18.345682637Z"
     description: Serves redirects and a couple of static resources at https://giantswarm.io/
     digest: 8efceb519794af60d4168e5b9e89bcb051c365b25462710f9cacec91cb6435da
@@ -215,4 +225,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-02-20T09:32:46.754954724Z"
+generated: "2020-02-21T08:15:11.500051041Z"
