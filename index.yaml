@@ -31,17 +31,6 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.2.tgz
     version: 0.1.2
-  auto-oncall-app:
-  - apiVersion: v1
-    appVersion: 0.1.0
-    created: "2019-10-30T13:21:53.859445527Z"
-    description: Application to manage routing rules on merge events
-    digest: d439e1a244394bb052ab1e491147534934f5d7dd65f64be046cebd1b8d0a1f68
-    home: https://github.com/giantswarm/auto-oncall
-    name: auto-oncall-app
-    urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/auto-oncall-app-0.1.0.tgz
-    version: 0.1.0
   docs-app:
   - apiVersion: v1
     appVersion: 0.0.1
