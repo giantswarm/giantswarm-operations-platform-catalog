@@ -165,6 +165,16 @@ entries:
   docs-indexer-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2020-03-30T14:14:47.854011251Z"
+    description: Indexes content for the docs search engine.
+    digest: f2ea64d1e1e2c9d61004b2e4af0069af2a2ada0314483a310b41c971a532ca7d
+    home: https://github.com/giantswarm/docs-indexer
+    name: docs-indexer-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2020-02-06T15:00:54.713862354Z"
     description: Indexes content for the docs search engine.
     digest: abe21620716e66572f75bc1dd9921eb6c1db453f01358b1b480641931d25b37b
@@ -301,4 +311,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-03-30T13:31:25.702634043Z"
+generated: "2020-03-30T14:14:47.853442356Z"
