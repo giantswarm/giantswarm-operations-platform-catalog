@@ -526,6 +526,13 @@ entries:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.1.tgz
     version: 0.2.1
   opsgenie-scheduler:
+  - appVersion: 0.3.4
+    created: "2020-05-20T13:42:19.4273457Z"
+    digest: eb7949550f29b3e04560154da90b64ef1a81181855c47ee8fe25ef9e7487b1ee
+    name: opsgenie-scheduler
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.4.tgz
+    version: 0.3.4
   - appVersion: 0.3.3
     created: "2020-04-02T09:07:09.764946567Z"
     digest: 9008c1d1e87d9b3d68bda7eb8ce1bb6caa22d2d56e982919240afd582db2cade
@@ -639,4 +646,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-05-20T07:57:06.565902395Z"
+generated: "2020-05-20T13:42:19.426903372Z"
