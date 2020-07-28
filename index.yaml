@@ -981,6 +981,16 @@ entries:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.1.0.tgz
     version: 0.1.0
   resource-police:
+  - apiVersion: v1
+    appVersion: 0.2.1
+    created: "2020-07-28T22:09:52.617070685Z"
+    description: Report about tenant clusters in test installations
+    digest: def210854c421a468df74de0cc37660cf89e1620d5a8797e9f8c68eec7dbf568
+    home: https://github.com/giantswarm/resource-police
+    name: resource-police
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.1.tgz
+    version: 0.2.1
   - appVersion: 0.2.0
     created: "2020-07-01T06:36:53.414802977Z"
     description: Report about tenant clusters in test installations
@@ -1071,4 +1081,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-07-24T07:56:45.983824661Z"
+generated: "2020-07-28T22:09:52.615872204Z"
