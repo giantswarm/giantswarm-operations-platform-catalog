@@ -3,6 +3,16 @@ entries:
   api-spec-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2020-10-09T16:45:53.13408866Z"
+    description: Serves the ReDoc container with the documentation of the GS API.
+    digest: 6b1ce776626223fb3c345c0c3a16e496d3c61c5cea771dfecbc6461749bc6dbd
+    home: https://github.com/giantswarm/api-spec
+    name: api-spec-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2020-06-17T09:55:50.01296485Z"
     description: Serves the ReDoc container with the documentation of the GS API.
     digest: 6c69520d15adbe3aba7d5785d1fb4f7a4cb4acf71dc4b3d37041162ffb81d1e4
@@ -1354,4 +1364,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-10-09T08:10:14.995129432Z"
+generated: "2020-10-09T16:45:53.133660101Z"
