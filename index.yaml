@@ -1252,6 +1252,16 @@ entries:
     version: 0.2.1
   opsgenie-scheduler:
   - apiVersion: v1
+    appVersion: 0.3.9
+    created: "2020-11-04T12:21:36.587469777Z"
+    description: Scheduler for Opsgenie team rotations
+    digest: fc5f56f1de51cc9caf1a8ca388525e138673a5354de295e144a7a643dff19b52
+    home: https://github.com/giantswarm/opsgenie-scheduler
+    name: opsgenie-scheduler
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.9.tgz
+    version: 0.3.9
+  - apiVersion: v1
     appVersion: 0.3.8
     created: "2020-10-27T08:57:12.228891276Z"
     description: Scheduler for Opsgenie team rotations
@@ -1474,4 +1484,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-11-02T15:45:59.249693813Z"
+generated: "2020-11-04T12:21:36.586637226Z"
