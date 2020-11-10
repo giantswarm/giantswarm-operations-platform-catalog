@@ -114,6 +114,16 @@ entries:
   blog-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2020-11-10T14:48:11.898177405Z"
+    description: Serves redirects at https://blog.giantswarm.io/
+    digest: a1a246bc41a72a01eb3e4cc97904a58fff24d50e3b05d4cf13ca333f501b98b1
+    home: https://github.com/giantswarm/blog
+    name: blog-app
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/blog-app-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2020-07-21T10:06:25.765426408Z"
     description: Serves redirects at https://blog.giantswarm.io/
     digest: 2a91be5e591745ba96e65f3d5d3afa14e7e0d946dab818fac15b20556ff69ce4
@@ -1565,4 +1575,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2020-11-10T13:26:03.989395576Z"
+generated: "2020-11-10T14:48:11.897760012Z"
