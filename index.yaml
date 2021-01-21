@@ -2416,6 +2416,18 @@ entries:
   karma:
   - apiVersion: v1
     appVersion: "0.77"
+    created: "2021-01-21T11:01:39.83366586Z"
+    description: A Helm chart for Karma - a UI for Prometheus Alertmanager
+    digest: c4224c8f6e8d473bff36f844d34e11eb862f134e6938dacffcfd73d353b7e221
+    home: https://github.com/giantswarm/karma-app
+    name: karma
+    sources:
+    - https://github.com/prymitive/karma
+    urls:
+    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/karma-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: "0.77"
     created: "2020-12-21T12:18:52.183848844Z"
     description: A Helm chart for Karma - a UI for Prometheus Alertmanager
     digest: ca9a7ca2b19f27608085b2bbfbe3c2df643018783e190878442419e10724a882
@@ -2816,4 +2828,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-01-21T08:02:37.480082102Z"
+generated: "2021-01-21T11:01:39.832588808Z"
