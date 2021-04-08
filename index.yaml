@@ -396,6 +396,16 @@ entries:
   docs-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2021-04-08T11:53:26.394726654Z"
+    description: Giant Swarm documentation published at https://docs.giantswarm.io/
+    digest: 113d6e51235b7c48178dccf32dc5d5af5113361300d7a347a110497ef4fea841
+    home: https://github.com/giantswarm/docs/
+    name: docs-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.95.tgz
+    version: 2.0.95
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2021-04-07T14:12:17.190797559Z"
     description: Giant Swarm documentation published at https://docs.giantswarm.io/
     digest: ff4f521d5caa121ad2a91d49273857747086cc90d0143556fde639777acf2f11
@@ -3589,8 +3599,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2021-02-18T08:35:34.229263777Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 6fb2ee63f98fb39d94f433023122a6d464f48ccbb94d3c0b77cd9c008a2c79e9
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3600,8 +3609,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2021-02-08T11:00:36.868652645Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: ebe162b46b66366d729af26cd3d5b6cd3b463034df468580e01bf1db0d420675
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3611,8 +3619,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2021-02-05T17:23:31.97181333Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 278ae9836dc499705b28538e6f2876d2a4249122cb61b8ee6ca0e8a442c0d5d1
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3622,8 +3629,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2021-01-13T16:52:18.677377521Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 246eb0529ab5f7ef7a072f36afa9f0232c9a1373aafadba41412148680958137
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3633,8 +3639,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-12-07T08:46:25.869385007Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 23b5adf0d7b38f6bcd27b5650b48188282794c6b3e1b752201618948d585afe9
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3644,8 +3649,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-11-10T11:45:40.805602149Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 12506fe3710d34fb7ebd5d0939ece1558b530619e3b44fcd4039b8f808e828e0
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3655,8 +3659,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-09-11T12:27:22.419173129Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 4846044807e22f7cecb65559132c07bf088f00a4a72b551ed67d7c180bc2040a
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3666,8 +3669,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-09-11T09:13:56.550164202Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 54a01a0f917809a8cc38de9ee36a598e5f9a90795b7e6ad4e3fcde98471532ba
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3677,8 +3679,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-08-26T14:05:51.305034207Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 4f363c32632c947924277f4d114cb9c89dc67e98c910407017fab0f0a1ccde9b
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3688,8 +3689,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2020-02-05T10:14:33.48953404Z"
-    description: Reverse proxy that brings several documentation components together
-      at https://docs.giantswarm.io/
+    description: Reverse proxy that brings several documentation components together at https://docs.giantswarm.io/
     digest: 4f59649668c31262cdc7e81eb03a65ac362c63b0f72080eaefa77d29e0bc9216
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
@@ -3697,7 +3697,8 @@ entries:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.1.tgz
     version: 0.7.1
   g8s-cert-manager:
-  - appVersion: 0.9.0
+  - apiVersion: v1
+    appVersion: 0.9.0
     created: "2019-08-02T14:19:42.360195646Z"
     description: A Helm chart for cert-manager
     digest: dd2d2b3ffa92a514c6a96943e76fa5783101d3a96c0173668cfd515da74102ad
@@ -3952,63 +3953,72 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.7.tgz
     version: 0.3.7
-  - appVersion: 0.3.6
+  - apiVersion: v1
+    appVersion: 0.3.6
     created: "2020-06-29T14:22:37.106832822Z"
     digest: 8fe690c9061398b176d2bdb78b7334ff23f1f350099680496338b3596865ba7d
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.6.tgz
     version: 0.3.6
-  - appVersion: 0.3.5
+  - apiVersion: v1
+    appVersion: 0.3.5
     created: "2020-05-26T08:43:08.386705869Z"
     digest: b5043a918160fa872e6d408e66fd8a44065f515b13c5c3ab689dc5f397afad8d
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.5.tgz
     version: 0.3.5
-  - appVersion: 0.3.4
+  - apiVersion: v1
+    appVersion: 0.3.4
     created: "2020-05-20T13:42:19.4273457Z"
     digest: eb7949550f29b3e04560154da90b64ef1a81181855c47ee8fe25ef9e7487b1ee
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.4.tgz
     version: 0.3.4
-  - appVersion: 0.3.3
+  - apiVersion: v1
+    appVersion: 0.3.3
     created: "2020-04-02T09:07:09.764946567Z"
     digest: 9008c1d1e87d9b3d68bda7eb8ce1bb6caa22d2d56e982919240afd582db2cade
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.3.tgz
     version: 0.3.3
-  - appVersion: 0.3.2
+  - apiVersion: v1
+    appVersion: 0.3.2
     created: "2020-04-02T08:18:43.351633606Z"
     digest: 4e9b5833348f0cc36b4e72ca5ad985fef9e6fece95d40004e34c0444e6abe356
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.2.tgz
     version: 0.3.2
-  - appVersion: 0.3.1
+  - apiVersion: v1
+    appVersion: 0.3.1
     created: "2020-03-30T13:31:25.703185169Z"
     digest: ff8a4be7c192ba2e2fdc047c1986b879274fe73364d65fdcbde38fccc5eccab7
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.1.tgz
     version: 0.3.1
-  - appVersion: 0.3.0
+  - apiVersion: v1
+    appVersion: 0.3.0
     created: "2020-01-23T12:54:21.412189208Z"
     digest: 3096d4899a59d1a5bea35d0c3c7e01839fb81ff74c91ba60bcc41f568496837e
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.0.tgz
     version: 0.3.0
-  - appVersion: 0.2.0
+  - apiVersion: v1
+    appVersion: 0.2.0
     created: "2020-01-16T19:39:10.321666579Z"
     digest: 0fe93890d039d304d63a1f28f0f5f423fa78130b64577949dfc3056c40d3e76a
     name: opsgenie-scheduler
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.2.0.tgz
     version: 0.2.0
-  - created: "2020-01-16T17:33:06.79527826Z"
+  - apiVersion: v1
+    created: "2020-01-16T17:33:06.79527826Z"
     digest: 11f2a56e4c2a5836d784ca4fd9a1af66807e7345f234df0eb9f457cbece81d79
     name: opsgenie-scheduler
     urls:
@@ -4055,7 +4065,8 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.1.tgz
     version: 0.2.1
-  - appVersion: 0.2.0
+  - apiVersion: v1
+    appVersion: 0.2.0
     created: "2020-07-01T06:36:53.414802977Z"
     description: Report about tenant clusters in test installations
     digest: 5cb635567225574f5728845f65755b68ba939e04404c31c13f66567728f2b872
@@ -4064,7 +4075,8 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.0.tgz
     version: 0.2.0
-  - appVersion: 0.1.0
+  - apiVersion: v1
+    appVersion: 0.1.0
     created: "2020-03-12T16:07:02.779150486Z"
     description: Report about tenant clusters in test installations
     digest: 70a84c330a3d3d7de6d14b6bed95e6ba592aeecfa9fa2868f81c58fd0ed00d2b
@@ -4135,21 +4147,24 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.1.0.tgz
     version: 1.1.0
-  - appVersion: 1.2.0
+  - apiVersion: v1
+    appVersion: 1.2.0
     created: "2020-05-14T17:13:39.610219468Z"
     digest: af1e279aa7e5fe5fdc2c5dedc887b1a1956ccea75a22b57cebd3363fe992289d
     name: vault-app
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.2.tgz
     version: 1.0.2
-  - appVersion: 1.2.0
+  - apiVersion: v1
+    appVersion: 1.2.0
     created: "2020-05-14T15:45:55.969442353Z"
     digest: 49b3f7fadd1caec5f6041763b79c4d83ee3357e96f1818203f8483e14d7bcf12
     name: vault-app
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.1.tgz
     version: 1.0.1
-  - appVersion: 1.2.0
+  - apiVersion: v1
+    appVersion: 1.2.0
     created: "2019-08-15T13:55:38.607678448Z"
     digest: 0912555bf8ec497e676fd608de22ce527aafeb0d67a7baca32a16af441d5374e
     name: vault-app
@@ -4157,7 +4172,8 @@ entries:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.0.tgz
     version: 1.0.0
   vault-exporter:
-  - appVersion: 0.1.0
+  - apiVersion: v1
+    appVersion: 0.1.0
     created: "2019-08-13T15:10:26.180135004Z"
     digest: 05b4fecd8ae619b1fcde44f4702caf3e2984e297ff373714bb2f1e3897e2219b
     name: vault-exporter
@@ -4265,4 +4281,4 @@ entries:
     urls:
     - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-04-07T14:56:00.486001626Z"
+generated: "2021-04-08T11:53:26.394288039Z"
