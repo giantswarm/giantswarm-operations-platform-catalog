@@ -9,7 +9,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.19.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.19.tgz
     version: 0.1.19
   - apiVersion: v1
     appVersion: 0.0.1
@@ -19,7 +19,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.18.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.18.tgz
     version: 0.1.18
   - apiVersion: v1
     appVersion: 0.0.1
@@ -29,7 +29,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.17.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.0.1
@@ -39,7 +39,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -49,7 +49,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -59,7 +59,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -69,7 +69,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -79,7 +79,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -89,7 +89,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -99,7 +99,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -109,7 +109,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -119,7 +119,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -129,7 +129,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -139,7 +139,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -149,7 +149,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -159,7 +159,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -169,7 +169,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -179,7 +179,7 @@ entries:
     home: https://github.com/giantswarm/api-spec
     name: api-spec-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/api-spec-app-0.1.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.1.2.tgz
     version: 0.1.2
   blog-app:
   - apiVersion: v1
@@ -190,7 +190,7 @@ entries:
     home: https://github.com/giantswarm/blog
     name: blog-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/blog-app-1.2.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/blog-app-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -200,7 +200,7 @@ entries:
     home: https://github.com/giantswarm/blog
     name: blog-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/blog-app-1.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/blog-app-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -210,7 +210,7 @@ entries:
     home: https://github.com/giantswarm/blog
     name: blog-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/blog-app-1.0.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/blog-app-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -220,7 +220,7 @@ entries:
     home: https://github.com/giantswarm/blog
     name: blog-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/blog-app-1.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/blog-app-1.0.0.tgz
     version: 1.0.0
   crsync:
   - apiVersion: v1
@@ -231,7 +231,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.11.tgz
     version: 0.5.11
   - apiVersion: v1
     appVersion: 0.5.10
@@ -241,7 +241,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.10.tgz
     version: 0.5.10
   - apiVersion: v1
     appVersion: 0.5.9
@@ -251,7 +251,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.9.tgz
     version: 0.5.9
   - apiVersion: v1
     appVersion: 0.5.8
@@ -261,7 +261,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.8.tgz
     version: 0.5.8
   - apiVersion: v1
     appVersion: 0.5.7
@@ -271,7 +271,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.7.tgz
     version: 0.5.7
   - apiVersion: v1
     appVersion: 0.5.6
@@ -281,7 +281,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.6.tgz
     version: 0.5.6
   - apiVersion: v1
     appVersion: 0.5.5
@@ -291,7 +291,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.5.tgz
     version: 0.5.5
   - apiVersion: v1
     appVersion: 0.5.4
@@ -301,7 +301,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.4.tgz
     version: 0.5.4
   - apiVersion: v1
     appVersion: 0.5.3
@@ -311,7 +311,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.3.tgz
     version: 0.5.3
   - apiVersion: v1
     appVersion: 0.5.2
@@ -321,7 +321,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.2.tgz
     version: 0.5.2
   - apiVersion: v1
     appVersion: 0.5.1
@@ -331,7 +331,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     appVersion: 0.5.0
@@ -341,7 +341,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.5.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: 0.4.1
@@ -351,7 +351,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.4.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     appVersion: 0.4.0
@@ -361,7 +361,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.4.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: 0.3.0
@@ -371,7 +371,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.3.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.0
@@ -381,7 +381,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.2.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -391,7 +391,7 @@ entries:
     home: https://github.com/giantswarm/crsync
     name: crsync
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/crsync-0.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.1.0.tgz
     version: 0.1.0
   docs-app:
   - apiVersion: v1
@@ -782,7 +782,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.54.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.54.tgz
     version: 2.0.54
   - apiVersion: v1
     appVersion: 0.0.1
@@ -792,7 +792,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.53.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.53.tgz
     version: 2.0.53
   - apiVersion: v1
     appVersion: 0.0.1
@@ -802,7 +802,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.52.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.52.tgz
     version: 2.0.52
   - apiVersion: v1
     appVersion: 0.0.1
@@ -812,7 +812,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.51.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.51.tgz
     version: 2.0.51
   - apiVersion: v1
     appVersion: 0.0.1
@@ -822,7 +822,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.50.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.50.tgz
     version: 2.0.50
   - apiVersion: v1
     appVersion: 0.0.1
@@ -832,7 +832,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.49.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.49.tgz
     version: 2.0.49
   - apiVersion: v1
     appVersion: 0.0.1
@@ -842,7 +842,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.48.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.48.tgz
     version: 2.0.48
   - apiVersion: v1
     appVersion: 0.0.1
@@ -852,7 +852,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.47.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.47.tgz
     version: 2.0.47
   - apiVersion: v1
     appVersion: 0.0.1
@@ -862,7 +862,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.46.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.46.tgz
     version: 2.0.46
   - apiVersion: v1
     appVersion: 0.0.1
@@ -872,7 +872,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.45.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.45.tgz
     version: 2.0.45
   - apiVersion: v1
     appVersion: 0.0.1
@@ -882,7 +882,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.44.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.44.tgz
     version: 2.0.44
   - apiVersion: v1
     appVersion: 0.0.1
@@ -892,7 +892,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.43.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.43.tgz
     version: 2.0.43
   - apiVersion: v1
     appVersion: 0.0.1
@@ -902,7 +902,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.42.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.42.tgz
     version: 2.0.42
   - apiVersion: v1
     appVersion: 0.0.1
@@ -912,7 +912,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.41.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.41.tgz
     version: 2.0.41
   - apiVersion: v1
     appVersion: 0.0.1
@@ -922,7 +922,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.40.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.40.tgz
     version: 2.0.40
   - apiVersion: v1
     appVersion: 0.0.1
@@ -932,7 +932,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.39.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.39.tgz
     version: 2.0.39
   - apiVersion: v1
     appVersion: 0.0.1
@@ -942,7 +942,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.38.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.38.tgz
     version: 2.0.38
   - apiVersion: v1
     appVersion: 0.0.1
@@ -952,7 +952,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.37.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.37.tgz
     version: 2.0.37
   - apiVersion: v1
     appVersion: 0.0.1
@@ -962,7 +962,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.36.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.36.tgz
     version: 2.0.36
   - apiVersion: v1
     appVersion: 0.0.1
@@ -972,7 +972,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.35.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.35.tgz
     version: 2.0.35
   - apiVersion: v1
     appVersion: 0.0.1
@@ -982,7 +982,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.34.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.34.tgz
     version: 2.0.34
   - apiVersion: v1
     appVersion: 0.0.1
@@ -992,7 +992,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.33.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.33.tgz
     version: 2.0.33
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1002,7 +1002,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.32.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.32.tgz
     version: 2.0.32
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1012,7 +1012,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.31.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.31.tgz
     version: 2.0.31
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1022,7 +1022,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.30.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.30.tgz
     version: 2.0.30
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1032,7 +1032,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.29.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.29.tgz
     version: 2.0.29
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1042,7 +1042,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.28.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.28.tgz
     version: 2.0.28
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1052,7 +1052,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.27.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.27.tgz
     version: 2.0.27
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1062,7 +1062,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.26.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.26.tgz
     version: 2.0.26
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1072,7 +1072,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.25.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.25.tgz
     version: 2.0.25
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1082,7 +1082,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.24.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.24.tgz
     version: 2.0.24
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1092,7 +1092,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.23.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.23.tgz
     version: 2.0.23
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1102,7 +1102,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.22.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.22.tgz
     version: 2.0.22
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1112,7 +1112,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.21.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.21.tgz
     version: 2.0.21
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1122,7 +1122,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.20.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.20.tgz
     version: 2.0.20
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1132,7 +1132,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.19.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.19.tgz
     version: 2.0.19
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1142,7 +1142,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.18.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.18.tgz
     version: 2.0.18
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1152,7 +1152,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.17.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.17.tgz
     version: 2.0.17
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1162,7 +1162,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.16.tgz
     version: 2.0.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1172,7 +1172,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.15.tgz
     version: 2.0.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1182,7 +1182,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.14.tgz
     version: 2.0.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1192,7 +1192,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.13.tgz
     version: 2.0.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1202,7 +1202,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.12.tgz
     version: 2.0.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1212,7 +1212,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.11.tgz
     version: 2.0.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1222,7 +1222,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.10.tgz
     version: 2.0.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1232,7 +1232,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.9.tgz
     version: 2.0.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1242,7 +1242,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.8.tgz
     version: 2.0.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1252,7 +1252,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.7.tgz
     version: 2.0.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1262,7 +1262,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.6.tgz
     version: 2.0.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1272,7 +1272,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.5.tgz
     version: 2.0.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1282,7 +1282,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.4.tgz
     version: 2.0.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1292,7 +1292,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.3.tgz
     version: 2.0.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1302,7 +1302,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.2.tgz
     version: 2.0.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1312,7 +1312,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-2.0.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1322,7 +1322,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.41.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.41.tgz
     version: 1.19.41
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1332,7 +1332,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.40.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.40.tgz
     version: 1.19.40
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1342,7 +1342,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.39.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.39.tgz
     version: 1.19.39
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1352,7 +1352,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.38.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.38.tgz
     version: 1.19.38
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1362,7 +1362,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.37.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.37.tgz
     version: 1.19.37
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1372,7 +1372,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.36.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.36.tgz
     version: 1.19.36
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1382,7 +1382,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.35.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.35.tgz
     version: 1.19.35
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1392,7 +1392,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.34.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.34.tgz
     version: 1.19.34
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1402,7 +1402,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.33.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.33.tgz
     version: 1.19.33
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1412,7 +1412,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.32.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.32.tgz
     version: 1.19.32
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1422,7 +1422,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.31.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.31.tgz
     version: 1.19.31
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1432,7 +1432,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.30.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.30.tgz
     version: 1.19.30
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1442,7 +1442,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.29.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.29.tgz
     version: 1.19.29
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1452,7 +1452,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.28.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.28.tgz
     version: 1.19.28
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1462,7 +1462,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.27.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.27.tgz
     version: 1.19.27
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1472,7 +1472,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.26.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.26.tgz
     version: 1.19.26
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1482,7 +1482,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.25.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.25.tgz
     version: 1.19.25
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1492,7 +1492,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.24.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.24.tgz
     version: 1.19.24
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1502,7 +1502,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.23.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.23.tgz
     version: 1.19.23
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1512,7 +1512,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.22.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.22.tgz
     version: 1.19.22
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1522,7 +1522,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.21.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.21.tgz
     version: 1.19.21
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1532,7 +1532,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.20.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.20.tgz
     version: 1.19.20
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1542,7 +1542,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.19.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.19.tgz
     version: 1.19.19
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1552,7 +1552,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.18.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.18.tgz
     version: 1.19.18
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1562,7 +1562,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.17.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.17.tgz
     version: 1.19.17
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1572,7 +1572,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.16.tgz
     version: 1.19.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1582,7 +1582,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.15.tgz
     version: 1.19.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1592,7 +1592,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.14.tgz
     version: 1.19.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1602,7 +1602,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.13.tgz
     version: 1.19.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1612,7 +1612,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.12.tgz
     version: 1.19.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1622,7 +1622,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.11.tgz
     version: 1.19.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1632,7 +1632,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.10.tgz
     version: 1.19.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1642,7 +1642,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.9.tgz
     version: 1.19.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1652,7 +1652,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.8.tgz
     version: 1.19.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1662,7 +1662,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.7.tgz
     version: 1.19.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1672,7 +1672,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.6.tgz
     version: 1.19.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1682,7 +1682,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.5.tgz
     version: 1.19.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1692,7 +1692,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.4.tgz
     version: 1.19.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1702,7 +1702,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.2.tgz
     version: 1.19.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1712,7 +1712,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.1.tgz
     version: 1.19.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1722,7 +1722,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.19.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.19.0.tgz
     version: 1.19.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1732,7 +1732,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.73.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.73.tgz
     version: 1.18.73
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1742,7 +1742,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.72.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.72.tgz
     version: 1.18.72
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1752,7 +1752,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.71.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.71.tgz
     version: 1.18.71
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1762,7 +1762,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.70.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.70.tgz
     version: 1.18.70
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1772,7 +1772,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.69.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.69.tgz
     version: 1.18.69
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1782,7 +1782,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.68.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.68.tgz
     version: 1.18.68
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1792,7 +1792,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.67.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.67.tgz
     version: 1.18.67
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1802,7 +1802,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.66.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.66.tgz
     version: 1.18.66
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1812,7 +1812,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.65.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.65.tgz
     version: 1.18.65
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1822,7 +1822,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.64.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.64.tgz
     version: 1.18.64
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1832,7 +1832,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.63.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.63.tgz
     version: 1.18.63
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1842,7 +1842,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.62.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.62.tgz
     version: 1.18.62
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1852,7 +1852,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.61.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.61.tgz
     version: 1.18.61
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1862,7 +1862,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.60.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.60.tgz
     version: 1.18.60
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1872,7 +1872,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.59.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.59.tgz
     version: 1.18.59
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1882,7 +1882,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.58.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.58.tgz
     version: 1.18.58
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1892,7 +1892,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.57.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.57.tgz
     version: 1.18.57
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1902,7 +1902,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.56.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.56.tgz
     version: 1.18.56
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1912,7 +1912,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.55.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.55.tgz
     version: 1.18.55
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1922,7 +1922,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.54.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.54.tgz
     version: 1.18.54
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1932,7 +1932,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.53.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.53.tgz
     version: 1.18.53
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1942,7 +1942,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.52.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.52.tgz
     version: 1.18.52
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1952,7 +1952,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.51.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.51.tgz
     version: 1.18.51
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1962,7 +1962,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.50.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.50.tgz
     version: 1.18.50
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1972,7 +1972,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.49.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.49.tgz
     version: 1.18.49
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1982,7 +1982,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.48.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.48.tgz
     version: 1.18.48
   - apiVersion: v1
     appVersion: 0.0.1
@@ -1992,7 +1992,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.47.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.47.tgz
     version: 1.18.47
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2002,7 +2002,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.46.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.46.tgz
     version: 1.18.46
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2012,7 +2012,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.45.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.45.tgz
     version: 1.18.45
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2022,7 +2022,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.44.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.44.tgz
     version: 1.18.44
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2032,7 +2032,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.43.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.43.tgz
     version: 1.18.43
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2042,7 +2042,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.42.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.42.tgz
     version: 1.18.42
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2052,7 +2052,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.41.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.41.tgz
     version: 1.18.41
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2062,7 +2062,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.40.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.40.tgz
     version: 1.18.40
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2072,7 +2072,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.39.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.39.tgz
     version: 1.18.39
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2082,7 +2082,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.38.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.38.tgz
     version: 1.18.38
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2092,7 +2092,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.37.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.37.tgz
     version: 1.18.37
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2102,7 +2102,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.36.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.36.tgz
     version: 1.18.36
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2112,7 +2112,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.35.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.35.tgz
     version: 1.18.35
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2122,7 +2122,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.34.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.34.tgz
     version: 1.18.34
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2132,7 +2132,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.33.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.33.tgz
     version: 1.18.33
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2142,7 +2142,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.32.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.32.tgz
     version: 1.18.32
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2152,7 +2152,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.31.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.31.tgz
     version: 1.18.31
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2162,7 +2162,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.30.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.30.tgz
     version: 1.18.30
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2172,7 +2172,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.29.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.29.tgz
     version: 1.18.29
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2182,7 +2182,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.28.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.28.tgz
     version: 1.18.28
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2192,7 +2192,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.27.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.27.tgz
     version: 1.18.27
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2202,7 +2202,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.26.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.26.tgz
     version: 1.18.26
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2212,7 +2212,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.25.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.25.tgz
     version: 1.18.25
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2222,7 +2222,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.24.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.24.tgz
     version: 1.18.24
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2232,7 +2232,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.23.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.23.tgz
     version: 1.18.23
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2242,7 +2242,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.22.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.22.tgz
     version: 1.18.22
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2252,7 +2252,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.21.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.21.tgz
     version: 1.18.21
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2262,7 +2262,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.20.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.20.tgz
     version: 1.18.20
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2272,7 +2272,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.19.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.19.tgz
     version: 1.18.19
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2282,7 +2282,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.18.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.18.tgz
     version: 1.18.18
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2292,7 +2292,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.17.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.17.tgz
     version: 1.18.17
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2302,7 +2302,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.16.tgz
     version: 1.18.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2312,7 +2312,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.15.tgz
     version: 1.18.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2322,7 +2322,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.14.tgz
     version: 1.18.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2332,7 +2332,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.13.tgz
     version: 1.18.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2342,7 +2342,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.12.tgz
     version: 1.18.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2352,7 +2352,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.11.tgz
     version: 1.18.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2362,7 +2362,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.10.tgz
     version: 1.18.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2372,7 +2372,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.9.tgz
     version: 1.18.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2382,7 +2382,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.8.tgz
     version: 1.18.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2392,7 +2392,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.7.tgz
     version: 1.18.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2402,7 +2402,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.6.tgz
     version: 1.18.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2412,7 +2412,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.5.tgz
     version: 1.18.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2422,7 +2422,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.4.tgz
     version: 1.18.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2432,7 +2432,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.3.tgz
     version: 1.18.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2442,7 +2442,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.2.tgz
     version: 1.18.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2452,7 +2452,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.1.tgz
     version: 1.18.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2462,7 +2462,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.18.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.18.0.tgz
     version: 1.18.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2472,7 +2472,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.14.tgz
     version: 1.17.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2482,7 +2482,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.13.tgz
     version: 1.17.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2492,7 +2492,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.12.tgz
     version: 1.17.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2502,7 +2502,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.11.tgz
     version: 1.17.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2512,7 +2512,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.10.tgz
     version: 1.17.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2522,7 +2522,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.9.tgz
     version: 1.17.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2532,7 +2532,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.8.tgz
     version: 1.17.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2542,7 +2542,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.7.tgz
     version: 1.17.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2552,7 +2552,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.6.tgz
     version: 1.17.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2562,7 +2562,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.5.tgz
     version: 1.17.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2572,7 +2572,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.4.tgz
     version: 1.17.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2582,7 +2582,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.3.tgz
     version: 1.17.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2592,7 +2592,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.2.tgz
     version: 1.17.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2602,7 +2602,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.1.tgz
     version: 1.17.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2612,7 +2612,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.17.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.17.0.tgz
     version: 1.17.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2622,7 +2622,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.16.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.16.1.tgz
     version: 1.16.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2632,7 +2632,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.16.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.16.0.tgz
     version: 1.16.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2642,7 +2642,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.15.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.15.1.tgz
     version: 1.15.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2652,7 +2652,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.15.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.15.0.tgz
     version: 1.15.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2662,7 +2662,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.14.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.14.0.tgz
     version: 1.14.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2672,7 +2672,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.13.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.13.4.tgz
     version: 1.13.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2682,7 +2682,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.13.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.13.3.tgz
     version: 1.13.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2692,7 +2692,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.13.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.13.2.tgz
     version: 1.13.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2702,7 +2702,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.13.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.13.1.tgz
     version: 1.13.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2712,7 +2712,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.13.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.13.0.tgz
     version: 1.13.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2722,7 +2722,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.12.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.12.1.tgz
     version: 1.12.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2732,7 +2732,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.12.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.12.0.tgz
     version: 1.12.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2742,7 +2742,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.11.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.11.5.tgz
     version: 1.11.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2752,7 +2752,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.11.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.11.4.tgz
     version: 1.11.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2762,7 +2762,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.11.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.11.3.tgz
     version: 1.11.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2772,7 +2772,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.11.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.11.2.tgz
     version: 1.11.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2782,7 +2782,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.11.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.11.1.tgz
     version: 1.11.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2792,7 +2792,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.11.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.11.0.tgz
     version: 1.11.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2802,7 +2802,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.7.tgz
     version: 1.10.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2812,7 +2812,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.6.tgz
     version: 1.10.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2822,7 +2822,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.5.tgz
     version: 1.10.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2832,7 +2832,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.4.tgz
     version: 1.10.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2842,7 +2842,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.2.tgz
     version: 1.10.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2852,7 +2852,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.1.tgz
     version: 1.10.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2862,7 +2862,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.10.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.10.0.tgz
     version: 1.10.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2872,7 +2872,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.16.tgz
     version: 1.9.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2882,7 +2882,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.15.tgz
     version: 1.9.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2892,7 +2892,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.14.tgz
     version: 1.9.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2902,7 +2902,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.13.tgz
     version: 1.9.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2912,7 +2912,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.12.tgz
     version: 1.9.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2922,7 +2922,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.11.tgz
     version: 1.9.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2932,7 +2932,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.10.tgz
     version: 1.9.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2942,7 +2942,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.9.tgz
     version: 1.9.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2952,7 +2952,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.8.tgz
     version: 1.9.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2962,7 +2962,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.7.tgz
     version: 1.9.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2972,7 +2972,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.5.tgz
     version: 1.9.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2982,7 +2982,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.4.tgz
     version: 1.9.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -2992,7 +2992,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.3.tgz
     version: 1.9.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3002,7 +3002,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.2.tgz
     version: 1.9.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3012,7 +3012,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.1.tgz
     version: 1.9.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3022,7 +3022,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.9.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.9.0.tgz
     version: 1.9.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3032,7 +3032,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.17.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.17.tgz
     version: 1.8.17
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3042,7 +3042,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.16.tgz
     version: 1.8.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3052,7 +3052,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.15.tgz
     version: 1.8.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3062,7 +3062,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.14.tgz
     version: 1.8.14
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3072,7 +3072,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.13.tgz
     version: 1.8.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3082,7 +3082,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.12.tgz
     version: 1.8.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3092,7 +3092,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.11.tgz
     version: 1.8.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3102,7 +3102,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.10.tgz
     version: 1.8.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3112,7 +3112,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.9.tgz
     version: 1.8.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3122,7 +3122,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.8.tgz
     version: 1.8.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3132,7 +3132,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.7.tgz
     version: 1.8.7
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3142,7 +3142,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.6.tgz
     version: 1.8.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3152,7 +3152,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.5.tgz
     version: 1.8.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3162,7 +3162,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.4.tgz
     version: 1.8.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3172,7 +3172,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.3.tgz
     version: 1.8.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3182,7 +3182,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.2.tgz
     version: 1.8.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3192,7 +3192,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.1.tgz
     version: 1.8.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3202,7 +3202,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.8.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.8.0.tgz
     version: 1.8.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3212,7 +3212,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.20.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.20.tgz
     version: 1.7.20
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3222,7 +3222,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.19.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.19.tgz
     version: 1.7.19
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3232,7 +3232,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.18.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.18.tgz
     version: 1.7.18
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3242,7 +3242,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.17.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.17.tgz
     version: 1.7.17
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3252,7 +3252,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.16.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.16.tgz
     version: 1.7.16
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3262,7 +3262,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.13.tgz
     version: 1.7.13
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3272,7 +3272,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.12.tgz
     version: 1.7.12
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3282,7 +3282,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.11.tgz
     version: 1.7.11
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3292,7 +3292,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.10.tgz
     version: 1.7.10
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3302,7 +3302,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.9.tgz
     version: 1.7.9
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3312,7 +3312,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.8.tgz
     version: 1.7.8
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3322,7 +3322,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.6.tgz
     version: 1.7.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3332,7 +3332,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.5.tgz
     version: 1.7.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3342,7 +3342,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.4.tgz
     version: 1.7.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3352,7 +3352,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.2.tgz
     version: 1.7.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3362,7 +3362,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.1.tgz
     version: 1.7.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3372,7 +3372,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.7.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.7.0.tgz
     version: 1.7.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3382,7 +3382,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.6.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.6.1.tgz
     version: 1.6.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3392,7 +3392,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.6.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.6.0.tgz
     version: 1.6.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3402,7 +3402,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.5.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.5.6.tgz
     version: 1.5.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3412,7 +3412,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.5.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.5.4.tgz
     version: 1.5.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3422,7 +3422,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.5.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.5.3.tgz
     version: 1.5.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3432,7 +3432,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.5.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.5.2.tgz
     version: 1.5.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3442,7 +3442,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.5.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.5.1.tgz
     version: 1.5.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3452,7 +3452,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.5.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3462,7 +3462,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-1.4.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3472,7 +3472,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-0.7.15.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-0.7.15.tgz
     version: 0.7.15
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3482,7 +3482,7 @@ entries:
     home: https://github.com/giantswarm/docs/
     name: docs-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-app-0.7.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-0.7.14.tgz
     version: 0.7.14
   docs-indexer-app:
   - apiVersion: v1
@@ -3493,7 +3493,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-2.2.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3503,7 +3503,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-2.2.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3513,7 +3513,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-2.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3523,7 +3523,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-2.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3533,7 +3533,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-1.0.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3543,7 +3543,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-1.0.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3553,7 +3553,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-1.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3563,7 +3563,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-0.3.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3573,7 +3573,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-0.3.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3583,7 +3583,7 @@ entries:
     home: https://github.com/giantswarm/docs-indexer
     name: docs-indexer-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-indexer-app-0.2.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-0.2.1.tgz
     version: 0.2.1
   docs-proxy-app:
   - apiVersion: v1
@@ -3595,7 +3595,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-1.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3606,7 +3606,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.9.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3617,7 +3617,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.8.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3628,7 +3628,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.8.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3639,7 +3639,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.6.tgz
     version: 0.7.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3650,7 +3650,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.5.tgz
     version: 0.7.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3661,7 +3661,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.4.tgz
     version: 0.7.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3672,7 +3672,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.3.tgz
     version: 0.7.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3683,7 +3683,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.2.tgz
     version: 0.7.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3694,7 +3694,7 @@ entries:
     home: https://github.com/giantswarm/docs-proxy
     name: docs-proxy-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.1.tgz
     version: 0.7.1
   g8s-cert-manager:
   - appVersion: 0.9.0
@@ -3703,7 +3703,7 @@ entries:
     digest: dd2d2b3ffa92a514c6a96943e76fa5783101d3a96c0173668cfd515da74102ad
     name: g8s-cert-manager
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/g8s-cert-manager-1.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/g8s-cert-manager-1.0.0.tgz
     version: 1.0.0
   giantswarmio-nginx-app:
   - apiVersion: v1
@@ -3714,7 +3714,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.4.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3724,7 +3724,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.3.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3734,7 +3734,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3744,7 +3744,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3754,7 +3754,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3764,7 +3764,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3774,7 +3774,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -3784,7 +3784,7 @@ entries:
     home: https://github.com/giantswarm/giantswarmio-nginx
     name: giantswarmio-nginx-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.2.1.tgz
     version: 0.2.1
   karma:
   - apiVersion: v1
@@ -3821,7 +3821,7 @@ entries:
     sources:
     - https://github.com/prymitive/karma
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/karma-0.2.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/karma-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: "0.77"
@@ -3833,7 +3833,7 @@ entries:
     sources:
     - https://github.com/prymitive/karma
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/karma-0.1.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/karma-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "0.77"
@@ -3845,7 +3845,7 @@ entries:
     sources:
     - https://github.com/prymitive/karma
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/karma-0.1.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/karma-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "0.77"
@@ -3857,7 +3857,7 @@ entries:
     sources:
     - https://github.com/prymitive/karma
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/karma-0.1.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/karma-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "0.77"
@@ -3869,7 +3869,7 @@ entries:
     sources:
     - https://github.com/prymitive/karma
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/karma-0.1.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/karma-0.1.1.tgz
     version: 0.1.1
   opsgenie-scheduler:
   - apiVersion: v1
@@ -3880,7 +3880,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.14.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.14.tgz
     version: 0.3.14
   - apiVersion: v1
     appVersion: 0.3.13
@@ -3890,7 +3890,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.13.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.13.tgz
     version: 0.3.13
   - apiVersion: v1
     appVersion: 0.3.12
@@ -3900,7 +3900,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.12.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.12.tgz
     version: 0.3.12
   - apiVersion: v1
     appVersion: 0.3.11
@@ -3910,7 +3910,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.11.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.11.tgz
     version: 0.3.11
   - apiVersion: v1
     appVersion: 0.3.10
@@ -3920,7 +3920,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.10.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.10.tgz
     version: 0.3.10
   - apiVersion: v1
     appVersion: 0.3.9
@@ -3930,7 +3930,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.9.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.9.tgz
     version: 0.3.9
   - apiVersion: v1
     appVersion: 0.3.8
@@ -3940,7 +3940,7 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.8.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.8.tgz
     version: 0.3.8
   - apiVersion: v1
     appVersion: 0.3.7
@@ -3950,69 +3950,69 @@ entries:
     home: https://github.com/giantswarm/opsgenie-scheduler
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.7.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.7.tgz
     version: 0.3.7
   - appVersion: 0.3.6
     created: "2020-06-29T14:22:37.106832822Z"
     digest: 8fe690c9061398b176d2bdb78b7334ff23f1f350099680496338b3596865ba7d
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.6.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.6.tgz
     version: 0.3.6
   - appVersion: 0.3.5
     created: "2020-05-26T08:43:08.386705869Z"
     digest: b5043a918160fa872e6d408e66fd8a44065f515b13c5c3ab689dc5f397afad8d
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.5.tgz
     version: 0.3.5
   - appVersion: 0.3.4
     created: "2020-05-20T13:42:19.4273457Z"
     digest: eb7949550f29b3e04560154da90b64ef1a81181855c47ee8fe25ef9e7487b1ee
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.4.tgz
     version: 0.3.4
   - appVersion: 0.3.3
     created: "2020-04-02T09:07:09.764946567Z"
     digest: 9008c1d1e87d9b3d68bda7eb8ce1bb6caa22d2d56e982919240afd582db2cade
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.3.tgz
     version: 0.3.3
   - appVersion: 0.3.2
     created: "2020-04-02T08:18:43.351633606Z"
     digest: 4e9b5833348f0cc36b4e72ca5ad985fef9e6fece95d40004e34c0444e6abe356
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.2.tgz
     version: 0.3.2
   - appVersion: 0.3.1
     created: "2020-03-30T13:31:25.703185169Z"
     digest: ff8a4be7c192ba2e2fdc047c1986b879274fe73364d65fdcbde38fccc5eccab7
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.1.tgz
     version: 0.3.1
   - appVersion: 0.3.0
     created: "2020-01-23T12:54:21.412189208Z"
     digest: 3096d4899a59d1a5bea35d0c3c7e01839fb81ff74c91ba60bcc41f568496837e
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.3.0.tgz
     version: 0.3.0
   - appVersion: 0.2.0
     created: "2020-01-16T19:39:10.321666579Z"
     digest: 0fe93890d039d304d63a1f28f0f5f423fa78130b64577949dfc3056c40d3e76a
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.2.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.2.0.tgz
     version: 0.2.0
   - created: "2020-01-16T17:33:06.79527826Z"
     digest: 11f2a56e4c2a5836d784ca4fd9a1af66807e7345f234df0eb9f457cbece81d79
     name: opsgenie-scheduler
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-scheduler-0.1.0.tgz
     version: 0.1.0
   resource-police:
   - apiVersion: v1
@@ -4023,7 +4023,7 @@ entries:
     home: https://github.com/giantswarm/resource-police
     name: resource-police
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.5.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v1
     appVersion: 0.2.4
@@ -4033,7 +4033,7 @@ entries:
     home: https://github.com/giantswarm/resource-police
     name: resource-police
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.4.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     appVersion: 0.2.3
@@ -4043,7 +4043,7 @@ entries:
     home: https://github.com/giantswarm/resource-police
     name: resource-police
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     appVersion: 0.2.1
@@ -4053,7 +4053,7 @@ entries:
     home: https://github.com/giantswarm/resource-police
     name: resource-police
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-0.2.1.tgz
     version: 0.2.1
   - appVersion: 0.2.0
     created: "2020-07-01T06:36:53.414802977Z"
@@ -4062,7 +4062,7 @@ entries:
     home: https://github.com/giantswarm/resource-police
     name: resource-police
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.2.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-0.2.0.tgz
     version: 0.2.0
   - appVersion: 0.1.0
     created: "2020-03-12T16:07:02.779150486Z"
@@ -4071,7 +4071,7 @@ entries:
     home: https://github.com/giantswarm/resource-police
     name: resource-police
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/resource-police-0.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-0.1.0.tgz
     version: 0.1.0
   sitesearch-app:
   - apiVersion: v1
@@ -4082,7 +4082,7 @@ entries:
     home: https://github.com/giantswarm/sitesearch
     name: sitesearch-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/sitesearch-app-1.1.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4092,7 +4092,7 @@ entries:
     home: https://github.com/giantswarm/sitesearch
     name: sitesearch-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/sitesearch-app-1.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4102,7 +4102,7 @@ entries:
     home: https://github.com/giantswarm/sitesearch
     name: sitesearch-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/sitesearch-app-1.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4112,7 +4112,7 @@ entries:
     home: https://github.com/giantswarm/sitesearch
     name: sitesearch-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/sitesearch-app-0.4.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-0.4.0.tgz
     version: 0.4.0
   vault-app:
   - apiVersion: v1
@@ -4123,7 +4123,7 @@ entries:
     home: https://github.com/giantswarm/vault-app
     name: vault-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.1.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-app-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: 1.2.0
@@ -4133,28 +4133,28 @@ entries:
     home: https://github.com/giantswarm/vault-app
     name: vault-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-app-1.1.0.tgz
     version: 1.1.0
   - appVersion: 1.2.0
     created: "2020-05-14T17:13:39.610219468Z"
     digest: af1e279aa7e5fe5fdc2c5dedc887b1a1956ccea75a22b57cebd3363fe992289d
     name: vault-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-app-1.0.2.tgz
     version: 1.0.2
   - appVersion: 1.2.0
     created: "2020-05-14T15:45:55.969442353Z"
     digest: 49b3f7fadd1caec5f6041763b79c4d83ee3357e96f1818203f8483e14d7bcf12
     name: vault-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-app-1.0.1.tgz
     version: 1.0.1
   - appVersion: 1.2.0
     created: "2019-08-15T13:55:38.607678448Z"
     digest: 0912555bf8ec497e676fd608de22ce527aafeb0d67a7baca32a16af441d5374e
     name: vault-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-app-1.0.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-app-1.0.0.tgz
     version: 1.0.0
   vault-exporter:
   - appVersion: 0.1.0
@@ -4162,7 +4162,7 @@ entries:
     digest: 05b4fecd8ae619b1fcde44f4702caf3e2984e297ff373714bb2f1e3897e2219b
     name: vault-exporter
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/vault-exporter-0.1.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-exporter-0.1.0.tgz
     version: 0.1.0
   web-assets-app:
   - apiVersion: v1
@@ -4173,7 +4173,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.5.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4183,7 +4183,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.5.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4193,7 +4193,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.4.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4203,7 +4203,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.3.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4213,7 +4213,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.2.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4223,7 +4223,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.2.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4233,7 +4233,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.2.1.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4243,7 +4243,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.2.0.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4253,7 +4253,7 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.3.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.0.1
@@ -4263,6 +4263,6 @@ entries:
     home: https://github.com/giantswarm/web-assets
     name: web-assets-app
     urls:
-    - https://giantswarm.github.com/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
 generated: "2021-04-07T14:56:00.486001626Z"
