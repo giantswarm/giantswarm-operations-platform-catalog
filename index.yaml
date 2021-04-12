@@ -4026,6 +4026,16 @@ entries:
     version: 0.1.0
   resource-police:
   - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-04-12T10:57:22.947748887Z"
+    description: Report about tenant clusters in test installations
+    digest: 9f18265fe948ab827baab355283d40b143d1e6571f9bf2186d431674771be117
+    home: https://github.com/giantswarm/resource-police
+    name: resource-police
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/resource-police-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
     appVersion: 0.2.5
     created: "2021-01-14T16:25:13.169800668Z"
     description: Report about tenant clusters in test installations
@@ -4281,4 +4291,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-04-08T11:53:26.394288039Z"
+generated: "2021-04-12T10:57:22.947286629Z"
