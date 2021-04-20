@@ -3776,6 +3776,17 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.1.tgz
     version: 0.7.1
+  fe-docs:
+  - apiVersion: v1
+    appVersion: 1.6.0
+    created: "2021-04-20T10:19:49.550769269Z"
+    description: The Giant Swarm front end documentation.
+    digest: 146416c784e5f29b76e6f57a2ec7a78a9c1d9dd44be51bef5f8c9dd21b2c00d6
+    home: https://github.com/giantswarm/happa
+    name: fe-docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.6.0.tgz
+    version: 1.6.0
   g8s-cert-manager:
   - apiVersion: v1
     appVersion: 0.9.0
@@ -4371,4 +4382,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-04-19T15:50:29.348786828Z"
+generated: "2021-04-20T10:19:49.547816387Z"
