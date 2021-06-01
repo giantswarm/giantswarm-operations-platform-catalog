@@ -4941,6 +4941,16 @@ entries:
   sitesearch-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2021-06-01T08:11:38.982607705Z"
+    description: Search engine for the Giant Swarm documentation at https://docs.giantswarm.io/
+    digest: c1d96789143703a1c0a2abc0e45e36775354069506c86eaf2284d34b106966c0
+    home: https://github.com/giantswarm/sitesearch
+    name: sitesearch-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2021-02-12T16:31:25.153171557Z"
     description: Search engine for the Giant Swarm documentation at https://docs.giantswarm.io/
     digest: e191661bc804045f5996ebb50c7908ce7366ceee6b8128e39c800a21a323749e
@@ -5144,4 +5154,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-06-01T07:56:05.435372827Z"
+generated: "2021-06-01T08:11:38.982186663Z"
