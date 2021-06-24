@@ -4995,6 +4995,20 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/karma-0.1.1.tgz
     version: 0.1.1
+  nginx-proxy:
+  - annotations:
+      application.giantswarm.io/team: atlas
+    apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-06-24T15:25:09.316649888Z"
+    description: A Helm chart for nginx-proxy
+    digest: 4744fb8903ad991cc637ee7520b5771f775b33a8653bff6119e3f28b1a62cf10
+    home: https://github.com/giantswarm/nginx-proxy
+    icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
+    name: nginx-proxy
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/nginx-proxy-0.1.0.tgz
+    version: 0.1.0
   opsgenie-scheduler:
   - apiVersion: v1
     appVersion: 0.3.14
@@ -5464,4 +5478,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-06-23T15:49:47.679210955Z"
+generated: "2021-06-24T15:25:09.315855773Z"
