@@ -6884,6 +6884,16 @@ entries:
     version: 0.7.1
   fe-docs:
   - apiVersion: v1
+    appVersion: 1.33.2
+    created: "2021-11-24T09:32:30.572659003Z"
+    description: The Giant Swarm front end documentation.
+    digest: 74278a48bb4c4a0558d3ced4de45911728ec18117cb164d1f5d5bbde9637b5c7
+    home: https://github.com/giantswarm/happa
+    name: fe-docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.33.2.tgz
+    version: 1.33.2
+  - apiVersion: v1
     appVersion: 1.33.1
     created: "2021-11-23T14:03:28.840118705Z"
     description: The Giant Swarm front end documentation.
@@ -8309,4 +8319,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2021-11-23T14:03:28.838919453Z"
+generated: "2021-11-24T09:32:30.57212481Z"
