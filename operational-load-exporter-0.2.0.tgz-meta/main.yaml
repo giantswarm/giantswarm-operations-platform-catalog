@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.2.0.tgz-meta/main.yaml
+  application.giantswarm.io/team: horizon
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.2.0.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: operational-load-exporter-0.2.0.tgz
+dateCreated: '2022-08-10T13:43:12.131074'
+digest: b48a5612fd8d27c7bae1398db18158deacc91af6b007262e6daa7d90a2f6674e
+home: https://github.com/giantswarm/operational-load-exporter
