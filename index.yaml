@@ -882,6 +882,16 @@ entries:
   docs-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2022-10-31T11:46:09.886952097Z"
+    description: Giant Swarm documentation published at https://docs.giantswarm.io/
+    digest: 017b595a67dba986ed70956411bfaf818c7505381c7854feeee85b9cc5420e2c
+    home: https://github.com/giantswarm/docs/
+    name: docs-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.596.tgz
+    version: 2.2.596
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2022-10-31T11:02:27.279993707Z"
     description: Giant Swarm documentation published at https://docs.giantswarm.io/
     digest: 6bf1b9033809c7f74174949d1d79c98f0deedffb922a95134dea2fc3b4199a4d
@@ -13241,4 +13251,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2022-10-31T11:02:27.279572358Z"
+generated: "2022-10-31T11:46:09.886525308Z"
