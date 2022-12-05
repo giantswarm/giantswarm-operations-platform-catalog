@@ -11104,6 +11104,17 @@ entries:
   docs-proxy-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2022-12-05T08:57:30.842567366Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: 19be4d7d2757bf5b3217927a0214e06f63c57ffa0d1b97dd01f07fb6e7979008
+    home: https://github.com/giantswarm/docs-proxy
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.3.1.tgz
+    version: 1.3.1
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2022-12-05T08:16:49.446126991Z"
     description: Reverse proxy that brings several documentation components together
       at https://docs.giantswarm.io/
@@ -13839,4 +13850,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2022-12-05T08:16:49.445638292Z"
+generated: "2022-12-05T08:57:30.842028328Z"
