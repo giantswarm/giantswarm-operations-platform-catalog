@@ -193,6 +193,23 @@ entries:
     version: 0.1.2
   area-oncall-scheduler:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.6.3.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.6.3.tgz-meta/README.md
+      application.giantswarm.io/team: giantswarm
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.6.3.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 0.6.3
+    created: "2023-02-23T13:19:41.356151829Z"
+    description: A Helm chart for area-oncall-scheduler
+    digest: 8c79479c89544b429a3a950a0ae585154274a634d26bc8cd9084f716b36894b6
+    home: https://github.com/giantswarm/area-oncall-scheduler
+    name: area-oncall-scheduler
+    sources:
+    - https://github.com/giantswarm/area-oncall-scheduler
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.6.3.tgz
+    version: 0.6.3
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.6.2.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.6.2.tgz-meta/README.md
       application.giantswarm.io/team: giantswarm
@@ -14628,4 +14645,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-02-23T11:09:49.160201804Z"
+generated: "2023-02-23T13:19:41.355289812Z"
