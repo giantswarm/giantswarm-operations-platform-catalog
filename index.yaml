@@ -415,6 +415,17 @@ entries:
     version: 1.0.0
   capi-image-builder:
   - apiVersion: v2
+    created: "2023-03-07T11:17:05.366516469Z"
+    description: App to handle building of CAPI VM images for various providers
+    digest: 12e92c078767e6e792af13e16faf08432ae7bcb1e771cb8b948c9678dc65d639
+    home: https://github.com/giantswarm/capi-image-builder
+    name: capi-image-builder
+    sources:
+    - https://github.com/some-org/some-repo
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/capi-image-builder-1.6.5.tgz
+    version: 1.6.5
+  - apiVersion: v2
     created: "2023-01-25T14:04:31.882322586Z"
     description: App to handle building of CAPI VM images for various providers
     digest: e22eadaee8e8bf4cb331e42cd94442bca39808e4ca81780e6ac789e1dfee4729
@@ -14845,4 +14856,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-03-07T09:10:27.571216759Z"
+generated: "2023-03-07T11:17:05.365803784Z"
