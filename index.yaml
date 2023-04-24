@@ -15154,6 +15154,16 @@ entries:
   web-assets-app:
   - apiVersion: v1
     appVersion: 0.0.1
+    created: "2023-04-24T14:29:28.721783402Z"
+    description: Static files used on potentially multiple web sites
+    digest: dee0ab7e71fdbaa5530a6735dae50ebb9eefc17c402cdd8c0093a48db9225d6d
+    home: https://github.com/giantswarm/web-assets
+    name: web-assets-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.26.tgz
+    version: 0.7.26
+  - apiVersion: v1
+    appVersion: 0.0.1
     created: "2023-04-20T13:15:47.445853163Z"
     description: Static files used on potentially multiple web sites
     digest: afd28099bf8d96e8e738ff34774b9f71773542ae42b58973e760688a907ca889
@@ -15572,4 +15582,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-04-24T14:16:16.984531415Z"
+generated: "2023-04-24T14:29:28.719914628Z"
