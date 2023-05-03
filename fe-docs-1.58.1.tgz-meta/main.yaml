@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.1.tgz-meta/README.md
+  application.giantswarm.io/team: team-rainbow
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.1.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: fe-docs-1.58.1.tgz
+dateCreated: '2023-05-03T14:01:24.445598'
+digest: 991fcece36869ac519a93c8ed70b6d664d582183be6a0737427288dc8dd7e0c4
+home: https://github.com/giantswarm/happa
