@@ -13037,6 +13037,21 @@ entries:
     version: 0.7.1
   fe-docs:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.2.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.2.tgz-meta/README.md
+      application.giantswarm.io/team: team-rainbow
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.2.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 1.58.2
+    created: "2023-05-04T11:47:12.522364128Z"
+    description: The Giant Swarm front end documentation.
+    digest: 904ad513b675ca38d0d5e7dda050e0322e6ad64c1025650de74ec402cd09b3de
+    home: https://github.com/giantswarm/happa
+    name: fe-docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.2.tgz
+    version: 1.58.2
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.58.1.tgz-meta/README.md
       application.giantswarm.io/team: team-rainbow
@@ -15805,4 +15820,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-05-04T06:39:42.41313644Z"
+generated: "2023-05-04T11:47:12.52118382Z"
