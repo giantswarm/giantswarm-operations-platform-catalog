@@ -388,6 +388,23 @@ entries:
     version: 0.1.0
   backstage:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.4.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.4.0.tgz-meta/README.md
+      application.giantswarm.io/team: team-honeybadger
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.4.0.tgz-meta/values.schema.json
+      ui.giantswarm.io/logo: https://s.giantswarm.io/app-icons/backstage/1/logo.svg
+    apiVersion: v1
+    appVersion: 0.4.0
+    created: "2023-08-21T10:07:35.79519023Z"
+    description: The Giant Swarm developer portal.
+    digest: 4fb453d8e9f9664af283831e8c63871d30b01eb37dc29196222c22972c13deb3
+    home: https://github.com/giantswarm/backstage
+    icon: https://s.giantswarm.io/app-icons/backstage/1/icon.svg
+    name: backstage
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.4.0.tgz
+    version: 0.4.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.3.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.3.0.tgz-meta/README.md
       application.giantswarm.io/team: team-honeybadger
@@ -17161,4 +17178,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-08-18T09:07:55.724977048Z"
+generated: "2023-08-21T10:07:35.794554423Z"
