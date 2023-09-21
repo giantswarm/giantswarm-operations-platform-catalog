@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.8.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.8.0.tgz-meta/README.md
+  application.giantswarm.io/team: giantswarm
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.8.0.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: area-oncall-scheduler-0.8.0.tgz
+dateCreated: '2023-09-21T06:33:42.562764'
+digest: 07f7cd3608601f5e99b5157dbef3fb274a9e4365b0e466cdd96ae23429ae05d3
+home: https://github.com/giantswarm/area-oncall-scheduler
