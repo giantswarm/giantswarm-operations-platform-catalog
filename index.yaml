@@ -1430,6 +1430,16 @@ entries:
     version: 1.0.0
   crsync:
   - apiVersion: v1
+    appVersion: 0.7.0
+    created: "2023-11-10T12:21:36.549430989Z"
+    description: Helm chart for crsync retagging tool
+    digest: 9a24862e6dd4f394aa3dfdacab2f2fb04a6ba7e649b51647c4c0e729925195cd
+    home: https://github.com/giantswarm/crsync
+    name: crsync
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v1
     appVersion: 0.6.1
     created: "2022-02-24T11:48:10.133533711Z"
     description: Helm chart for crsync retagging tool
@@ -18570,4 +18580,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-11-10T09:47:50.919727613Z"
+generated: "2023-11-10T12:21:36.548894074Z"
