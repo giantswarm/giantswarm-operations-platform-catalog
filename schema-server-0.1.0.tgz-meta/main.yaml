@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz-meta/README.md
+  application.giantswarm.io/team: team-rainbow
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: schema-server-0.1.0.tgz
+dateCreated: '2023-11-10T12:58:43.768551'
+digest: 394b781f1b6b97cfea01d324e6bd4ca964a2dd9aab6e238738f198d4681c4231
+home: https://github.com/giantswarm/schema-server
+icon: https://camo.githubusercontent.com/752aea2bb973cd0af33354afe331a41dbff16ff2d4e7fcdb97078349096b926d/68747470733a2f2f6a736f6e2d736368656d612e6f72672f6173736574732f6c6f676f2e737667
