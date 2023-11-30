@@ -19094,6 +19094,18 @@ entries:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-exporter-0.1.0.tgz
     version: 0.1.0
   web-assets-app:
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
+    created: "2023-11-30T13:06:33.942182968Z"
+    description: Static files used on potentially multiple web sites
+    digest: b47d196e3ba952771e79e4e1ddcd1b716ea98c29736f3762a96d231eeaf9a613
+    home: https://github.com/giantswarm/web-assets
+    name: web-assets-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
+    version: 0.7.32
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2023-09-29T14:32:27.33877467Z"
@@ -19574,4 +19586,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-11-30T13:03:00.953267741Z"
+generated: "2023-11-30T13:06:33.941521484Z"
