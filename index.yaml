@@ -1497,6 +1497,21 @@ entries:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/capi-image-builder-1.0.0.tgz
     version: 1.0.0
   crsync:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.0.tgz-meta/README.md
+      application.giantswarm.io/team: honeybadger
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.0.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: 0.9.0
+    created: "2023-12-04T12:26:20.409431689Z"
+    description: Helm chart for crsync retagging tool
+    digest: 282fbd54b416e20812b228ee2c01093f2b90e5515569cab7aab2f5b1dfff7658
+    home: https://github.com/giantswarm/crsync
+    name: crsync
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.0.tgz
+    version: 0.9.0
   - apiVersion: v1
     appVersion: 0.8.0
     created: "2023-11-28T15:09:34.470123558Z"
@@ -19717,4 +19732,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2023-12-04T11:13:50.505840991Z"
+generated: "2023-12-04T12:26:20.408498474Z"
