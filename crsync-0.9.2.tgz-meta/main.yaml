@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.2.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.2.tgz-meta/README.md
+  application.giantswarm.io/team: honeybadger
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.9.2.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: crsync-0.9.2.tgz
+dateCreated: '2024-01-10T08:27:39.293853'
+digest: 39876225685d5063b45ee48c3cb7397c27a366fdad2f30f21e0317618e38bb0a
+home: https://github.com/giantswarm/crsync
