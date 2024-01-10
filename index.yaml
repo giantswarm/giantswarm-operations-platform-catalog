@@ -20637,6 +20637,18 @@ entries:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-01-10T16:49:02.359969495Z"
+    description: Static files used on potentially multiple web sites
+    digest: 432f275e27c4a86a29f4c047c021cb3860352b9ff7b6ee852f4c6781600f80f8
+    home: https://github.com/giantswarm/web-assets
+    name: web-assets-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.8.1.tgz
+    version: 0.8.1
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2024-01-10T14:32:53.82041972Z"
     description: Static files used on potentially multiple web sites
     digest: 172dce688548c09ebc32b910fdd91c936c9f2123a66b43cdcaf53d57c7e57e3d
@@ -21137,4 +21149,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-01-10T16:11:29.524130415Z"
+generated: "2024-01-10T16:49:02.359519581Z"
