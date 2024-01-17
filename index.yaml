@@ -18787,6 +18787,20 @@ entries:
       application.giantswarm.io/team: team
     apiVersion: v1
     appVersion: main
+    created: "2024-01-17T10:01:38.522485861Z"
+    description: A Helm chart for our intranet
+    digest: 0137d0af9a9fe94dcdf68cea4b399c1b24a4c573301e8ab74a0bc60c5dbaa253
+    home: https://github.com/giantswarm/giantswarm
+    name: intranet
+    sources:
+    - https://github.com/giantswarm/giantswarm
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.100.tgz
+    version: 0.1.100
+  - annotations:
+      application.giantswarm.io/team: team
+    apiVersion: v1
+    appVersion: main
     created: "2024-01-16T14:03:38.203405121Z"
     description: A Helm chart for our intranet
     digest: 01e852090d1c21037b6d7b7c06a80ba812f66b1750657539fde103e2d78c3713
@@ -21433,4 +21447,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-01-16T15:56:51.197852595Z"
+generated: "2024-01-17T10:01:38.521190678Z"
