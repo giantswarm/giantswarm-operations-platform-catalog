@@ -1874,6 +1874,18 @@ entries:
       application.giantswarm.io/team: sig-docs
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-01-31T10:26:06.368736487Z"
+    description: Giant Swarm documentation published at https://docs.giantswarm.io/
+    digest: 57fbdd65f37f7acb6722fbdc368477ef2564ca7370e9baf4ea96c4e0df76f595
+    home: https://github.com/giantswarm/docs/
+    name: docs-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1065.tgz
+    version: 2.2.1065
+  - annotations:
+      application.giantswarm.io/team: sig-docs
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2024-01-29T14:56:21.142083164Z"
     description: Giant Swarm documentation published at https://docs.giantswarm.io/
     digest: b650d3a1d80e5c77b9b6900f8cb48908b03c7427857003abe7a5164e0063ef0a
@@ -22501,4 +22513,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-01-30T08:29:37.756337478Z"
+generated: "2024-01-31T10:26:06.367018538Z"
