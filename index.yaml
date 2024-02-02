@@ -1036,6 +1036,18 @@ entries:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-02-02T09:15:52.764233957Z"
+    description: Serves redirects at https://blog.giantswarm.io/
+    digest: 2461e17c5a232499993c8ebe2630adfb564dece5448b84ca9d8c2be4d3f6bf66
+    home: https://github.com/giantswarm/blog
+    name: blog-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/blog-app-1.2.5.tgz
+    version: 1.2.5
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2024-02-02T09:08:33.879757216Z"
     description: Serves redirects at https://blog.giantswarm.io/
     digest: b48ab58f0df7f2d0255ab4b27c513b50b2403e2cc44b5a66b7a795ea46da9e3b
@@ -22715,4 +22727,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-02T09:08:33.879151854Z"
+generated: "2024-02-02T09:15:52.763841495Z"
