@@ -1032,6 +1032,18 @@ entries:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.1.0.tgz
     version: 0.1.0
   blog-app:
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
+    created: "2024-02-02T09:08:33.879757216Z"
+    description: Serves redirects at https://blog.giantswarm.io/
+    digest: b48ab58f0df7f2d0255ab4b27c513b50b2403e2cc44b5a66b7a795ea46da9e3b
+    home: https://github.com/giantswarm/blog
+    name: blog-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/blog-app-1.2.4.tgz
+    version: 1.2.4
   - apiVersion: v1
     appVersion: 0.0.1
     created: "2023-09-29T14:28:37.547926636Z"
@@ -22703,4 +22715,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-02T08:37:42.288216422Z"
+generated: "2024-02-02T09:08:33.879151854Z"
