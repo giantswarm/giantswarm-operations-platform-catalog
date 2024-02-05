@@ -16287,6 +16287,18 @@ entries:
   - annotations:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
+    appVersion: 3.3.3
+    created: "2024-02-05T14:00:32.314688998Z"
+    description: Indexes content for the docs search engine.
+    digest: 99486ab92b68264274276b80812e0e967f96a5c25cd466a4d01b2ffbfacf62d3
+    home: https://github.com/giantswarm/docs-indexer
+    name: docs-indexer-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-3.3.3.tgz
+    version: 3.3.3
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
     appVersion: 3.3.2
     created: "2024-01-29T07:56:00.247785433Z"
     description: Indexes content for the docs search engine.
@@ -22917,4 +22929,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-05T13:56:20.691519946Z"
+generated: "2024-02-05T14:00:32.314113282Z"
