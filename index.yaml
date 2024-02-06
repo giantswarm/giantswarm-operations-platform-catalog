@@ -22396,6 +22396,18 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-0.4.0.tgz
     version: 0.4.0
+  test-infra:
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    created: "2024-02-06T13:56:19.783329094Z"
+    description: Giant Swarm conformance testing stack.
+    digest: da76389762e2c58ab5fb87c4c5730e3cc450101d400d1e575d24ba61128b634b
+    home: https://github.com/giantswarm/test-infra
+    name: test-infra
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/test-infra-1.40.0.tgz
+    version: 1.40.0
   vault-app:
   - annotations:
       application.giantswarm.io/team: phoenix
@@ -23125,4 +23137,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-06T13:32:31.118322075Z"
+generated: "2024-02-06T13:56:19.782214039Z"
