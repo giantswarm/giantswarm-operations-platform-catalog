@@ -22386,6 +22386,18 @@ entries:
   - annotations:
       application.giantswarm.io/team: phoenix
     apiVersion: v1
+    appVersion: 1.6.7
+    created: "2024-02-06T12:46:07.015540667Z"
+    description: Vault app
+    digest: 993df5c24b14dcd68422081c1d08baf2c17cfae11747606728f37abae1ebafe7
+    home: https://github.com/giantswarm/vault-app
+    name: vault-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/vault-app-2.2.0.tgz
+    version: 2.2.0
+  - annotations:
+      application.giantswarm.io/team: phoenix
+    apiVersion: v1
     appVersion: 1.5.4
     created: "2024-02-06T12:35:45.050025202Z"
     description: Vault app
@@ -23075,4 +23087,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-06T12:35:45.049398595Z"
+generated: "2024-02-06T12:46:07.01459209Z"
