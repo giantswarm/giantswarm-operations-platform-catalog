@@ -16674,6 +16674,19 @@ entries:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-02-07T09:08:51.729709104Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: d587f3bd2f0ac5149cf374c86f93b1fa1717c32c4a229e0929bff70a662d3d00
+    home: https://github.com/giantswarm/docs-proxy
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.5.3.tgz
+    version: 1.5.3
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2024-01-29T07:54:11.444030863Z"
     description: Reverse proxy that brings several documentation components together
       at https://docs.giantswarm.io/
@@ -23262,4 +23275,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-07T09:00:00.008430283Z"
+generated: "2024-02-07T09:08:51.729258947Z"
