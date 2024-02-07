@@ -5,6 +5,20 @@ entries:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-02-07T16:25:41.856752094Z"
+    description: Serves the ReDoc container with the documentation of the Giant Swarm
+      Rest API.
+    digest: 5bd868e477a45f50b1905fe5d1c8b31c312b9b5580086558ea4a59d2a3a14839
+    home: https://github.com/giantswarm/api-spec
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: api-spec-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/api-spec-app-0.2.2.tgz
+    version: 0.2.2
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2024-02-05T15:00:16.435281868Z"
     description: Serves the ReDoc container with the documentation of the Giant Swarm
       Rest API.
@@ -23424,4 +23438,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-07T16:24:56.375607996Z"
+generated: "2024-02-07T16:25:41.85618823Z"
