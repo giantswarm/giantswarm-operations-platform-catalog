@@ -18661,6 +18661,18 @@ entries:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
     appVersion: 0.0.1
+    created: "2024-02-08T09:45:02.190352923Z"
+    description: Serves redirects and a couple of static resources at https://giantswarm.io/
+    digest: fd86417ed54ae04db493beee30816d7a6026da274246eaa24a4dd9ead7218444
+    home: https://github.com/giantswarm/giantswarmio-nginx
+    name: giantswarmio-nginx-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.6.0.tgz
+    version: 0.6.0
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
+    appVersion: 0.0.1
     created: "2023-11-30T13:07:45.304271473Z"
     description: Serves redirects and a couple of static resources at https://giantswarm.io/
     digest: 50bc0ece7b3b299d876c343a7e51d146d2cda0f1775ec8e7e16c7cf65426c0ae
@@ -23474,4 +23486,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-08T09:23:01.367974499Z"
+generated: "2024-02-08T09:45:02.18979127Z"
