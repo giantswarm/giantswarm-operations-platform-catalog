@@ -21997,6 +21997,19 @@ entries:
   - annotations:
       application.giantswarm.io/team: atlas
     apiVersion: v1
+    appVersion: 0.2.0
+    created: "2024-02-08T12:51:31.968537407Z"
+    description: A Helm chart for nginx-proxy
+    digest: 933a7d1bc323ba89b24cf38457576cb5806cf73e57653df41ec219cf5a642874
+    home: https://github.com/giantswarm/nginx-proxy
+    icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
+    name: nginx-proxy
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/nginx-proxy-0.2.0.tgz
+    version: 0.2.0
+  - annotations:
+      application.giantswarm.io/team: atlas
+    apiVersion: v1
     appVersion: 0.1.1
     created: "2021-11-09T18:00:04.352682982Z"
     description: A Helm chart for nginx-proxy
@@ -23537,4 +23550,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-08T12:51:13.782140047Z"
+generated: "2024-02-08T12:51:31.968119097Z"
