@@ -23584,6 +23584,17 @@ entries:
   - annotations:
       application.giantswarm.io/team: honeybadger
     apiVersion: v1
+    created: "2024-02-21T10:55:55.103160854Z"
+    description: Giant Swarm conformance testing stack.
+    digest: f9ada2a53e4fc25cfca973d58350f836d154ab4b5208e93a23f45cca570afcee
+    home: https://github.com/giantswarm/test-infra
+    name: test-infra
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/test-infra-1.46.0.tgz
+    version: 1.46.0
+  - annotations:
+      application.giantswarm.io/team: honeybadger
+    apiVersion: v1
     created: "2024-02-08T09:23:01.369249741Z"
     description: Giant Swarm conformance testing stack.
     digest: 51950c2250a75d7435c9048abcd58a0ce5db06813c919fcaf59d4f698bd327f5
@@ -24478,4 +24489,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-02-20T15:37:32.540036643Z"
+generated: "2024-02-21T10:55:55.10178785Z"
