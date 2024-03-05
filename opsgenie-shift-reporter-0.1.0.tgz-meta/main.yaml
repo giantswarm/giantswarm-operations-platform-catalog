@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.0.tgz-meta/README.md
+  application.giantswarm.io/team: horizon
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.0.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: opsgenie-shift-reporter-0.1.0.tgz
+dateCreated: '2024-03-05T08:50:32.371319'
+digest: 722ea08fea438e64191cef5768d22964e46dc36694fd174ca28aad62600b04cb
+home: https://github.com/giantswarm/opsgenie-shift-reporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
