@@ -24115,6 +24115,21 @@ entries:
     version: 0.1.0
   opsgenie-shift-reporter:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.1.tgz-meta/README.md
+      application.giantswarm.io/team: horizon
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.1.tgz-meta/values.schema.json
+    apiVersion: v1
+    created: "2024-03-05T11:43:06.836625406Z"
+    description: A Helm chart for opsgenie-shift-reporter
+    digest: d834246f84627a10f89babcd0869e7838ad8c03de2e248aa8ef8ab1aa2879a56
+    home: https://github.com/giantswarm/opsgenie-shift-reporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: opsgenie-shift-reporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.1.tgz
+    version: 0.1.1
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/opsgenie-shift-reporter-0.1.0.tgz-meta/README.md
       application.giantswarm.io/team: horizon
@@ -25455,4 +25470,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-03-05T11:14:38.238691967Z"
+generated: "2024-03-05T11:43:06.836164218Z"
