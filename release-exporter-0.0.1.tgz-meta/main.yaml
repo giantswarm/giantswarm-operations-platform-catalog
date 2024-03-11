@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.0.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.0.1.tgz-meta/README.md
+  application.giantswarm.io/team: horizon
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.0.1.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: release-exporter-0.0.1.tgz
+dateCreated: '2024-03-11T11:53:40.793720'
+digest: e496f67855a44ff0680c72ccffee79f60c536833468241b108857d30026ede02
+home: https://github.com/giantswarm/release-exporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
