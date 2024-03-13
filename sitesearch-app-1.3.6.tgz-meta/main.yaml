@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.3.6.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.3.6.tgz-meta/README.md
+  application.giantswarm.io/team: honeybadger
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-1.3.6.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: sitesearch-app-1.3.6.tgz
+dateCreated: '2024-03-13T12:18:07.622245'
+digest: 044b8317ab3d03094e64c37232cea218eb795a89f87d9629f76a488a3bb109a9
+home: https://github.com/giantswarm/sitesearch
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
