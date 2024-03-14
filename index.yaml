@@ -24702,6 +24702,21 @@ entries:
     version: 0.4.0
   release-exporter:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.0.tgz-meta/README.md
+      application.giantswarm.io/team: horizon
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.0.tgz-meta/values.schema.json
+    apiVersion: v1
+    created: "2024-03-14T09:51:35.224525446Z"
+    description: A Helm chart for release-exporter
+    digest: ba4229f7c8e30e9a9ab9069a142812148fa18485e1e1784c400283898b96b476
+    home: https://github.com/giantswarm/release-exporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: release-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.0.tgz
+    version: 0.1.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.0.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.0.1.tgz-meta/README.md
       application.giantswarm.io/team: horizon
@@ -26116,4 +26131,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-03-14T09:33:40.831337908Z"
+generated: "2024-03-14T09:51:35.224038081Z"
