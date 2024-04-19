@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz-meta/README.md
+  application.giantswarm.io/team: shield
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz-meta/values.schema.json
+  config.giantswarm.io/version: 1.x.x
+chartApiVersion: v2
+chartFile: edgedb-0.0.1.tgz
+dateCreated: '2024-04-19T20:08:59.159580'
+digest: 6d9223d8371f4b6744b8e65ff947dd351d4ebf3834370d125bbc0474e8ec8a65
+home: https://github.com/giantswarm/edgedb
+icon: https://s.giantswarm.io/app-icons/edgedb/light.svg

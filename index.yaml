@@ -18608,6 +18608,28 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-0.7.1.tgz
     version: 0.7.1
+  edgedb:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz-meta/README.md
+      application.giantswarm.io/team: shield
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: "4.5"
+    created: "2024-04-19T20:09:00.906501936Z"
+    description: A Helm chart for deploying the EdgeDB graph database.
+    digest: 6d9223d8371f4b6744b8e65ff947dd351d4ebf3834370d125bbc0474e8ec8a65
+    home: https://github.com/giantswarm/edgedb
+    icon: https://s.giantswarm.io/app-icons/edgedb/light.svg
+    name: edgedb
+    sources:
+    - https://github.com/edgedb/edgedb
+    - https://github.com/Japan7/nanak8s/tree/main/charts/edgedb
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/edgedb-0.0.1.tgz
+    version: 0.0.1
   fe-docs:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.64.4.tgz-meta/main.yaml
@@ -27634,4 +27656,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-04-19T14:03:35.943224246Z"
+generated: "2024-04-19T20:09:00.905601433Z"
