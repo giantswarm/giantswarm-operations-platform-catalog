@@ -2187,6 +2187,30 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/capi-image-builder-1.0.0.tgz
     version: 1.0.0
+  cloudnative-pg:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.2.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.2.tgz-meta/README.md
+      application.giantswarm.io/team: shield
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.2.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 1.23.1
+    created: "2024-04-30T20:39:38.272281269Z"
+    dependencies:
+    - name: cloudnative-pg
+      repository: ""
+      version: 0.21.2
+    description: A Giant Swarm app for deploying CloudNative PostgreSQL.
+    digest: e79b0d0e223000a77f6a9c10b3a6823260eeb90cf51e89b46bcd20d89bdb46db
+    home: https://github.com/giantswarm/cloudnative-pg-app
+    icon: https://s.giantswarm.io/app-icons/cloudnative-pg/icon-light.svg
+    name: cloudnative-pg
+    sources:
+    - https://github.com/cloudnative-pg/charts
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.2.tgz
+    version: 0.0.2
   crsync:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.10.0.tgz-meta/main.yaml
@@ -28183,4 +28207,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-04-30T14:51:03.556753861Z"
+generated: "2024-04-30T20:39:38.264787339Z"
