@@ -27554,6 +27554,30 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.0.1.tgz
     version: 0.0.1
+  reports-server:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.1.tgz-meta/README.md
+      application.giantswarm.io/team: shield
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.1.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-05-17T17:50:17.685876983Z"
+    dependencies:
+    - name: reports-server
+      repository: ""
+      version: 0.1.0-alpha.1
+    description: A Giant Swarm app for deploying the Kyverno Reports Server.
+    digest: b378c5f261a15c2dee203488e6c4e47ad5b759f94b62b9f1f7c5821e958e3a8e
+    home: https://github.com/giantswarm/reports-server-app
+    icon: https://s.giantswarm.io/app-icons/kyverno/1/light.svg
+    name: reports-server
+    sources:
+    - https://github.com/kyverno/reports-server
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.1.tgz
+    version: 0.0.1
   resource-police:
   - annotations:
       application.giantswarm.io/team: phoenix
@@ -29049,4 +29073,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-05-17T17:46:52.366790827Z"
+generated: "2024-05-17T17:50:17.67716406Z"
