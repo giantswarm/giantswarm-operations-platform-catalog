@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.2.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.2.tgz-meta/README.md
+  application.giantswarm.io/team: shield
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/reports-server-0.0.2.tgz-meta/values.schema.json
+  config.giantswarm.io/version: 1.x.x
+chartApiVersion: v2
+chartFile: reports-server-0.0.2.tgz
+dateCreated: '2024-06-04T15:35:31.825679'
+digest: b823128af99c62edd48a28070f850beaefd816fc463e7927d5f509c1946e7461
+home: https://github.com/giantswarm/reports-server-app
+icon: https://s.giantswarm.io/app-icons/kyverno/1/light.svg
