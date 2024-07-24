@@ -21927,6 +21927,20 @@ entries:
       application.giantswarm.io/team: team
     apiVersion: v1
     appVersion: main
+    created: "2024-07-24T14:21:39.114477061Z"
+    description: A Helm chart for out handbook
+    digest: e65f0a6716e629b46c2734964bff05aafd4944db1581f772b43f8984721163a1
+    home: https://github.com/giantswarm/handbook
+    name: handbook
+    sources:
+    - https://github.com/giantswarm/handbook
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.54.tgz
+    version: 0.13.54
+  - annotations:
+      application.giantswarm.io/team: team
+    apiVersion: v1
+    appVersion: main
     created: "2024-07-24T13:56:09.113508302Z"
     description: A Helm chart for out handbook
     digest: 1d7c682ab31fcb6193fc968b4bd729d09ebb144d378d1f6056b20c352a95f83c
@@ -31857,4 +31871,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-07-24T13:56:09.112273887Z"
+generated: "2024-07-24T14:21:39.113666952Z"
