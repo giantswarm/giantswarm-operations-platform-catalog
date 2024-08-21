@@ -584,6 +584,23 @@ entries:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.33.1.tgz
     version: 0.33.1
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.33.1-50fe46e3eb895522338bb8e6363d6e04aee755a1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.33.1-50fe46e3eb895522338bb8e6363d6e04aee755a1.tgz-meta/README.md
+      application.giantswarm.io/team: honeybadger
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.33.1-50fe46e3eb895522338bb8e6363d6e04aee755a1.tgz-meta/values.schema.json
+      ui.giantswarm.io/logo: https://s.giantswarm.io/app-icons/backstage/1/logo.svg
+    apiVersion: v1
+    appVersion: 0.33.1-50fe46e3eb895522338bb8e6363d6e04aee755a1
+    created: "2024-08-21T09:34:20.556745246Z"
+    description: Backstage app provided by Giant Swarm
+    digest: bad01f10ce4b3eae760d2e629b7f89b0e106a67a9cee1f219d454b1bd720d452
+    home: https://github.com/giantswarm/backstage
+    icon: https://s.giantswarm.io/app-icons/backstage/1/icon.svg
+    name: backstage
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.33.1-50fe46e3eb895522338bb8e6363d6e04aee755a1.tgz
+    version: 0.33.1-50fe46e3eb895522338bb8e6363d6e04aee755a1
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.32.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.32.1.tgz-meta/README.md
       application.giantswarm.io/team: honeybadger
@@ -32471,4 +32488,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-08-21T09:26:05.323100136Z"
+generated: "2024-08-21T09:34:20.555935247Z"
