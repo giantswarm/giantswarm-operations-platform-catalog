@@ -5,7 +5,7 @@ annotations:
   application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.68.1.tgz-meta/values.schema.json
 chartApiVersion: v1
 chartFile: fe-docs-1.68.1.tgz
-dateCreated: '2024-10-11T10:01:55.858433Z'
-digest: 547b6ddd7456fa7bce1f2727563cdcd48e6c0dc9120c6d92166aa740a01a6358
+dateCreated: '2024-10-11T11:10:28.889971Z'
+digest: 3f2e7571759d474b30e6b146c53b2f12c1aa5f8b31aebfee11bbb85e39ab5e1d
 home: https://github.com/giantswarm/happa
 icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
