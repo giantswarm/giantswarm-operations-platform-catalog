@@ -24011,6 +24011,24 @@ entries:
     version: 0.2.1
   handbook:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.91.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.91.tgz-meta/README.md
+      application.giantswarm.io/team: up
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.91.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: main
+    created: "2024-12-09T15:27:30.960653926Z"
+    description: A Helm chart for out handbook
+    digest: b9f8e09881a6cda533d1dce8085c965b2fee400242b2e675a731f903e826dff2
+    home: https://github.com/giantswarm/handbook
+    icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
+    name: handbook
+    sources:
+    - https://github.com/giantswarm/handbook
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.91.tgz
+    version: 0.13.91
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.87.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.87.tgz-meta/README.md
       application.giantswarm.io/team: up
@@ -36554,4 +36572,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-12-09T14:10:33.433374415Z"
+generated: "2024-12-09T15:27:30.95985907Z"
