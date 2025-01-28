@@ -37165,6 +37165,29 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/nginx-proxy-0.1.0.tgz
     version: 0.1.0
+  onepassword-scim-bridge:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.1.tgz-meta/README.md
+      application.giantswarm.io/team: shield
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.1.tgz-meta/values.schema.json
+    apiVersion: v2
+    appVersion: v2.9.9
+    created: "2025-01-28T18:09:44.580081047Z"
+    dependencies:
+    - name: op-scim-bridge
+      repository: ""
+      version: 2.11.7
+    description: Giant Swarm App packaging for the 1Password SCIM bridge.
+    digest: 68a289b820968483c9a4bf94dd126de4d848dad3c577db139ed23fde70be47d4
+    home: https://github.com/giantswarm/onepassword-scim-bridge-app
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: onepassword-scim-bridge
+    sources:
+    - https://github.com/1Password/op-scim-helm
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.1.tgz
+    version: 0.0.1
   operational-load-exporter:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.4.4.tgz-meta/main.yaml
@@ -39221,4 +39244,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-01-28T16:45:10.877492321Z"
+generated: "2025-01-28T18:09:44.569021517Z"
