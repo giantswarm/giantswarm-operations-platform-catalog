@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.4.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.4.tgz-meta/README.md
+  application.giantswarm.io/team: shield
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.4.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: onepassword-scim-bridge-0.0.4.tgz
+dateCreated: '2025-01-31T13:52:39.421026'
+digest: 2205dc5c68f4695255a5a188608d7cad8af3bc8aeced6ed3fb5213052ed405ac
+home: https://github.com/giantswarm/onepassword-scim-bridge-app
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
