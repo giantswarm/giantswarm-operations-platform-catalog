@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.2.488.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.2.488.tgz-meta/README.md
+  application.giantswarm.io/team: up
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.2.488.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: intranet-0.2.488.tgz
+dateCreated: '2025-02-25T14:05:09.029689'
+digest: 019870821b530bb90dea5218cb5ba8b9291af33896b006271f59c3ec2330b7d9
+home: https://github.com/giantswarm/giantswarm
+icon: https://s.giantswarm.io/app-icons/intranet/1/dark.svg
