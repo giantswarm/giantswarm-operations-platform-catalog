@@ -24251,6 +24251,22 @@ entries:
     version: 0.0.1
   fe-docs:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.3.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.3.tgz-meta/README.md
+      application.giantswarm.io/team: honeybadger
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.3.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 1.71.3
+    created: "2025-03-12T08:21:10.283465842Z"
+    description: The Giant Swarm front end documentation.
+    digest: 48bb6f6d98c7e143ff1e7dd581790b1f1bfba24f02581f73694ce738e5a14c5c
+    home: https://github.com/giantswarm/happa
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: fe-docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.3.tgz
+    version: 1.71.3
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.2.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.2.tgz-meta/README.md
       application.giantswarm.io/team: honeybadger
@@ -41344,4 +41360,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-03-11T15:58:18.656586326Z"
+generated: "2025-03-12T08:21:10.282902929Z"
