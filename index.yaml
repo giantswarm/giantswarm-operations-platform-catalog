@@ -4545,6 +4545,24 @@ entries:
     version: 0.1.0
   docs-app:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1502-3feeca9995d6d1d6fef6715a1ff7284d1a1c2001.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1502-3feeca9995d6d1d6fef6715a1ff7284d1a1c2001.tgz-meta/README.md
+      application.giantswarm.io/team: sig-docs
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1502-3feeca9995d6d1d6fef6715a1ff7284d1a1c2001.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 0.0.1
+    created: "2025-05-15T08:31:58.32007431Z"
+    description: Giant Swarm documentation published at https://docs.giantswarm.io/
+    digest: 2d9b60babd6e1641b4e6428b96be53bfb0a265500a1c46385483a5d90dd06d59
+    home: https://github.com/giantswarm/docs/
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: docs-app
+    sources:
+    - https://github.com/giantswarm/docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1502-3feeca9995d6d1d6fef6715a1ff7284d1a1c2001.tgz
+    version: 2.2.1502-3feeca9995d6d1d6fef6715a1ff7284d1a1c2001
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1502-30ebb961d3a66565a65afd46e8fac5e94dae4398.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1502-30ebb961d3a66565a65afd46e8fac5e94dae4398.tgz-meta/README.md
       application.giantswarm.io/team: sig-docs
@@ -45118,4 +45136,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-05-15T08:31:40.009105433Z"
+generated: "2025-05-15T08:31:58.319329716Z"
