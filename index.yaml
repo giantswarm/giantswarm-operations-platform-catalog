@@ -4261,6 +4261,32 @@ entries:
     version: 1.0.0
   cloudnative-pg:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.9.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.9.tgz-meta/README.md
+      application.giantswarm.io/team: shield
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.9.tgz-meta/values.schema.json
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v2
+    appVersion: 1.23.2
+    created: "2025-05-28T09:17:45.470661794Z"
+    dependencies:
+    - name: cloudnative-pg
+      repository: ""
+      version: 0.24.0
+    - name: cluster
+      repository: https://cloudnative-pg.github.io/grafana-dashboards
+      version: 0.0.4
+    description: A Giant Swarm app for deploying CloudNative PostgreSQL.
+    digest: 1857317d120259a8154c29aff2f0b6b15ec0dda9dc755c3f7d83c91b1ae0d7ba
+    home: https://github.com/giantswarm/cloudnative-pg-app
+    icon: https://s.giantswarm.io/app-icons/cloudnative-pg/icon-light.svg
+    name: cloudnative-pg
+    sources:
+    - https://github.com/cloudnative-pg/charts
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.9.tgz
+    version: 0.0.9
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.8.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.8.tgz-meta/README.md
       application.giantswarm.io/team: shield
@@ -45638,4 +45664,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-05-28T09:17:14.321029068Z"
+generated: "2025-05-28T09:17:45.458784151Z"
