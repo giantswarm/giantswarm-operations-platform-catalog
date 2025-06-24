@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.10.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.10.tgz-meta/README.md
+  application.giantswarm.io/team: shield
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/cloudnative-pg-0.0.10.tgz-meta/values.schema.json
+  config.giantswarm.io/version: 1.x.x
+chartApiVersion: v2
+chartFile: cloudnative-pg-0.0.10.tgz
+dateCreated: '2025-06-24T15:05:18.014182Z'
+digest: a693bf5a7e591e09318d2ca61b8bfddf1550b64fb818b1ee11b30c42027079f1
+home: https://github.com/giantswarm/cloudnative-pg-app
+icon: https://s.giantswarm.io/app-icons/cloudnative-pg/icon-light.svg
