@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.144.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.144.tgz-meta/README.md
+  application.giantswarm.io/team: up
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.13.144.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: handbook-0.13.144.tgz
+dateCreated: '2025-07-08T15:54:51.141732Z'
+digest: 66717a0a7b718a7e02d424129c6f02ee50b72c616e9e0ced79f7290fc3b15bc2
+home: https://github.com/giantswarm/handbook
+icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
