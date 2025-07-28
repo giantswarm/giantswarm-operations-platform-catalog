@@ -5149,6 +5149,24 @@ entries:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1656.tgz
     version: 2.2.1656
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1656-dc31873f949aa32185aaa1b08516abfc6f764f3d.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1656-dc31873f949aa32185aaa1b08516abfc6f764f3d.tgz-meta/README.md
+      application.giantswarm.io/team: sig-docs
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1656-dc31873f949aa32185aaa1b08516abfc6f764f3d.tgz-meta/values.schema.json
+    apiVersion: v1
+    appVersion: 0.0.1
+    created: "2025-07-28T10:35:44.946479559Z"
+    description: Giant Swarm documentation published at https://docs.giantswarm.io/
+    digest: 542baa84d4f5279e711f60d0356407ee036a1c8bcd155ae23c59cddf4801672d
+    home: https://github.com/giantswarm/docs/
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: docs-app
+    sources:
+    - https://github.com/giantswarm/docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1656-dc31873f949aa32185aaa1b08516abfc6f764f3d.tgz
+    version: 2.2.1656-dc31873f949aa32185aaa1b08516abfc6f764f3d
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1654.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.1654.tgz-meta/README.md
       application.giantswarm.io/team: sig-docs
@@ -50480,4 +50498,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-07-28T10:35:31.586726221Z"
+generated: "2025-07-28T10:35:44.945894882Z"
