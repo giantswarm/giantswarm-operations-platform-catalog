@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.4.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.4.tgz-meta/README.md
+  application.giantswarm.io/team: honeybadger
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fe-docs-1.71.4.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: fe-docs-1.71.4.tgz
+dateCreated: '2025-08-14T10:23:52.956236Z'
+digest: d8d4e44d72fb62d027dea5c7082b72ba4208b4bddfed7ef76658edbfceaaffea
+home: https://github.com/giantswarm/happa
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
