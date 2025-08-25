@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz-meta/README.md
+  application.giantswarm.io/team: honeybadger
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz-meta/values.schema.json
+chartApiVersion: v2
+chartFile: registry-sync-0.1.1.tgz
+dateCreated: '2025-08-25T08:28:47.097846Z'
+digest: 3c6203d2b1e05a0fed1f485a14d3fcf9e0ca2a2defd7a6861b5866e249513ae2
+home: https://github.com/giantswarm/registry-sync
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg

@@ -49644,6 +49644,21 @@ entries:
     version: 0.4.0
   registry-sync:
   - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz-meta/README.md
+      application.giantswarm.io/team: honeybadger
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz-meta/values.schema.json
+    apiVersion: v2
+    created: "2025-08-25T08:28:49.441859148Z"
+    description: Synchronizes container images between registries
+    digest: 3c6203d2b1e05a0fed1f485a14d3fcf9e0ca2a2defd7a6861b5866e249513ae2
+    home: https://github.com/giantswarm/registry-sync
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: registry-sync
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.1.tgz
+    version: 0.1.1
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/registry-sync-0.1.0.tgz-meta/README.md
       application.giantswarm.io/team: honeybadger
@@ -51378,4 +51393,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-08-22T19:56:28.659637573Z"
+generated: "2025-08-25T08:28:49.441313786Z"
