@@ -56049,6 +56049,22 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/nginx-proxy-0.1.0.tgz
     version: 0.1.0
+  oncall-shift-reporter:
+  - annotations:
+      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.0.tgz-meta/main.yaml
+      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.0.tgz-meta/README.md
+      application.giantswarm.io/team: planeteers
+      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.0.tgz-meta/values.schema.json
+    apiVersion: v1
+    created: "2025-11-19T09:09:02.694896087Z"
+    description: A Helm chart for oncall-shift-reporter
+    digest: dfc3071be98424e4fcd5c20fd2180b3f60e3a0acc4db4afd137b7e011fec2564
+    home: https://github.com/giantswarm/oncall-shift-reporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: oncall-shift-reporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.0.tgz
+    version: 1.0.0
   onepassword-scim-bridge:
   - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/onepassword-scim-bridge-0.0.4.tgz-meta/main.yaml
@@ -58358,4 +58374,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-11-19T06:27:40.889741061Z"
+generated: "2025-11-19T09:09:02.694466361Z"
