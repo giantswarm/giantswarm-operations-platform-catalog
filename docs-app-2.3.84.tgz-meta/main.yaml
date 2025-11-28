@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.3.84.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.3.84.tgz-meta/README.md
+  application.giantswarm.io/team: sig-docs
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.3.84.tgz-meta/values.schema.json
+chartApiVersion: v1
+chartFile: docs-app-2.3.84.tgz
+dateCreated: '2025-11-28T16:28:46.954258Z'
+digest: c01cac4eca8c34e147c7547923a1dddcdfa6c165d4b881fdb1cc327904ff97ea
+home: https://github.com/giantswarm/docs/
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
