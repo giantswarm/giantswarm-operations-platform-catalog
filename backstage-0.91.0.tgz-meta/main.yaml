@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.91.0.tgz-meta/main.yaml
+  application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.91.0.tgz-meta/README.md
+  application.giantswarm.io/team: honeybadger
+  application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.91.0.tgz-meta/values.schema.json
+  ui.giantswarm.io/logo: https://s.giantswarm.io/app-icons/backstage/1/logo.svg
+chartApiVersion: v2
+chartFile: backstage-0.91.0.tgz
+dateCreated: '2025-12-10T08:19:29.167780Z'
+digest: 9a797628f08d09ad7d5b413e0a7ebc32557ce1712e21914216a56c7299ae69a2
+home: https://github.com/giantswarm/backstage
+icon: https://s.giantswarm.io/app-icons/backstage/1/icon.svg
