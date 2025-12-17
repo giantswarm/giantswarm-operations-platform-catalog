@@ -35326,6 +35326,22 @@ entries:
     version: 1.0.0
   giantswarmio-nginx-app:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.7.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarmio-nginx/refs/tags/v0.7.0/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/giantswarmio-nginx/refs/tags/v0.7.0/helm/giantswarmio-nginx-app/values.schema.json
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-12-17T13:55:21.052898753Z"
+    description: Serves redirects and a couple of static resources at https://giantswarm.io/
+    digest: e30cf204aee09b49a63ebf591e984d171c7dcfbd97e2ffa1e5493c385cf92389
+    home: https://github.com/giantswarm/giantswarmio-nginx
+    icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
+    name: giantswarmio-nginx-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.7.0.tgz
+    version: 0.7.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.6.4.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.6.4.tgz-meta/README.md
       application.giantswarm.io/team: honeybadger
@@ -60658,4 +60674,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-12-17T12:08:22.384830265Z"
+generated: "2025-12-17T13:55:21.052243138Z"
