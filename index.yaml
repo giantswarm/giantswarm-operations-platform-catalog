@@ -39615,6 +39615,24 @@ entries:
     version: 0.0.1
   intranet:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.2.1024.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarm/refs/tags/v0.2.1024/README.md
+      io.giantswarm.application.team: up
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/giantswarm/refs/tags/v0.2.1024/helm/intranet/values.schema.json
+    apiVersion: v1
+    appVersion: main
+    created: "2025-12-19T14:44:13.706368792Z"
+    description: A Helm chart for our intranet
+    digest: aa31038c8f2f917d59f1aa4a8f4f753ca7329d10c3bf7d55be042c2bfbed7356
+    home: https://github.com/giantswarm/giantswarm
+    icon: https://s.giantswarm.io/app-icons/intranet/1/dark.svg
+    name: intranet
+    sources:
+    - https://github.com/giantswarm/giantswarm
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.2.1024.tgz
+    version: 0.2.1024
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.2.1023.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarm/refs/tags/v0.2.1023/README.md
       io.giantswarm.application.team: up
@@ -60877,4 +60895,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2025-12-18T13:06:32.386361024Z"
+generated: "2025-12-19T14:44:13.705434015Z"
