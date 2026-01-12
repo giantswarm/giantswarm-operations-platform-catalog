@@ -35571,6 +35571,21 @@ entries:
     version: 1.6.0
   fulfillment:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.0.4.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/fulfillment/refs/tags/v0.0.4/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/fulfillment/refs/tags/v0.0.4/helm/fulfillment/values.schema.json
+    apiVersion: v1
+    created: "2026-01-12T13:11:21.712372323Z"
+    description: A Helm chart for fulfillment
+    digest: 4b3b0e973179322bd4715f6a69e8975d143c241fedf68b21fe3e25fe7c07882f
+    home: https://github.com/giantswarm/fulfillment
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: fulfillment
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.0.4.tgz
+    version: 0.0.4
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.0.3.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.0.3.tgz-meta/README.md
       application.giantswarm.io/team: planeteers
@@ -61387,4 +61402,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-01-12T12:30:49.696142427Z"
+generated: "2026-01-12T13:11:21.711781557Z"
