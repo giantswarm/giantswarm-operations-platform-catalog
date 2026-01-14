@@ -32776,6 +32776,23 @@ entries:
     version: 0.7.14
   docs-indexer-app:
   - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-4.1.1.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-indexer/refs/tags/v4.1.1/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-indexer/refs/tags/v4.1.1/helm/docs-indexer-app/values.schema.json
+    apiVersion: v2
+    appVersion: 4.1.1
+    created: "2026-01-14T15:00:56.774212538Z"
+    description: Indexes content for the docs search engine.
+    digest: abe82f192b8d8c8249c8989f7fac29897fba97f43d56009b577c4fa9c0b75c56
+    home: https://github.com/giantswarm/docs-indexer
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-indexer-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-4.1.1.tgz
+    version: 4.1.1
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-4.1.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-indexer/refs/tags/v4.1.0/README.md
       io.giantswarm.application.team: honeybadger
@@ -61535,4 +61552,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-01-14T12:03:46.004061432Z"
+generated: "2026-01-14T15:00:56.773266316Z"
