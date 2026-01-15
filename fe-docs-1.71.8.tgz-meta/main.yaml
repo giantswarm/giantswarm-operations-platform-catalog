@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: fe-docs-1.71.8.tgz
+dateCreated: '2026-01-15T15:16:12.118186Z'
+digest: 9cce61e756f0dab8061b9e7bc1d11a0308aa51f260bb95f1a3bf0ff4721ffa1a
+home: https://github.com/giantswarm/happa
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
