@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: atlas
+chartApiVersion: v2
+chartFile: nginx-proxy-0.3.0.tgz
+dateCreated: '2026-01-21T13:37:00.358425Z'
+digest: a2f1c620b6514df43c9f05e89abd3559c310a0a60d809a717db122e6ee53d2fc
+home: https://github.com/giantswarm/nginx-proxy
+icon: https://s.giantswarm.io/app-icons/1/png/default-app-light.png
