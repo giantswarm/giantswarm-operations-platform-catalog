@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: up
+chartApiVersion: v1
+chartFile: intranet-0.2.1082.tgz
+dateCreated: '2026-02-10T15:44:35.665284Z'
+digest: 2500a33d7e3ad775b02d00e4518baff0ddac5bcb8f60bdd5babbdea47d0e9571
+home: https://github.com/giantswarm/giantswarm
+icon: https://s.giantswarm.io/app-icons/intranet/1/dark.svg
