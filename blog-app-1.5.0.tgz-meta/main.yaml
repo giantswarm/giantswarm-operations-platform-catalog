@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: blog-app-1.5.0.tgz
+dateCreated: '2026-02-11T08:56:39.453543Z'
+digest: 86834308fb0ad8649ddfae18d76c9b5cb1146626642830455bd685718d2e68f6
+home: https://github.com/giantswarm/blog
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
