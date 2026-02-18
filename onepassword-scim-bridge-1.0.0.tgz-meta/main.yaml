@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/team: shield
+chartApiVersion: v2
+chartFile: onepassword-scim-bridge-1.0.0.tgz
+dateCreated: '2026-02-18T19:52:33.493214Z'
+digest: c6cc0100966be27f059ac08237bcea063b19a2912d5a452bfd0679c6a93deecd
+home: https://github.com/giantswarm/onepassword-scim-bridge-app
+icon: https://s.giantswarm.io/app-icons/onepassword/1/light.png
