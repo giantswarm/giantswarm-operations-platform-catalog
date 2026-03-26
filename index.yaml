@@ -65252,6 +65252,26 @@ entries:
     version: 0.1.0
   schema-server:
   - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.3.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.3.0/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.3.0/helm/schema-server/values.schema.json
+      io.giantswarm.ui.logo: https://s.giantswarm.io/app-icons/json-schema/1/logo_light.svg
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2026-03-26T19:24:54.716441805Z"
+    description: Serves JSON schema provided by Giant Swarm
+    digest: ed12015d9507c961c9583c3684dec476c0e66caee6c515342e4786c358b55762
+    home: https://github.com/giantswarm/schema-server
+    icon: https://s.giantswarm.io/app-icons/json-schema/1/light.svg
+    name: schema-server
+    sources:
+    - https://github.com/giantswarm/schema-server
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.3.0.tgz
+    version: 0.3.0
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.2.0.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.2.0.tgz-meta/README.md
       application.giantswarm.io/team: team-rainbow
@@ -67002,4 +67022,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-03-26T19:21:17.304275124Z"
+generated: "2026-03-26T19:24:54.71543547Z"

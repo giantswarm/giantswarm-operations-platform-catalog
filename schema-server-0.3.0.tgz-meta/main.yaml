@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+  io.giantswarm.ui.logo: https://s.giantswarm.io/app-icons/json-schema/1/logo_light.svg
+chartApiVersion: v2
+chartFile: schema-server-0.3.0.tgz
+dateCreated: '2026-03-26T19:24:51.310189Z'
+digest: ed12015d9507c961c9583c3684dec476c0e66caee6c515342e4786c358b55762
+home: https://github.com/giantswarm/schema-server
+icon: https://s.giantswarm.io/app-icons/json-schema/1/light.svg
