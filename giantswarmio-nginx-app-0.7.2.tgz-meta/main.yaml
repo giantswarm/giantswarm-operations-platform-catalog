@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: giantswarmio-nginx-app-0.7.2.tgz
+dateCreated: '2026-03-27T13:30:05.733798Z'
+digest: c78f56c2cb9dbb186c7b3655e4ae8ec2462927de5620a4360f92ddb991b9288a
+home: https://github.com/giantswarm/giantswarmio-nginx
+icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
