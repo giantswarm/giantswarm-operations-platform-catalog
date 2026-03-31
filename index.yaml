@@ -66294,6 +66294,23 @@ entries:
   web-assets-app:
   - annotations:
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.28.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/web-assets/refs/tags/v0.28.0/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/web-assets/refs/tags/v0.28.0/helm/web-assets-app/values.schema.json
+    apiVersion: v2
+    appVersion: 0.28.0
+    created: "2026-03-31T15:29:30.814703461Z"
+    description: Static files used on potentially multiple web sites
+    digest: 789be58c04264d789d9862147b9e4fec32a82c80621557cb650001b6aba52674
+    home: https://github.com/giantswarm/web-assets
+    icon: https://placekittens.com/100/100
+    name: web-assets-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.28.0.tgz
+    version: 0.28.0
+  - annotations:
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.27.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/web-assets/refs/tags/v0.27.0/README.md
       io.giantswarm.application.team: honeybadger
@@ -67324,4 +67341,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-03-31T11:32:41.815560624Z"
+generated: "2026-03-31T15:29:30.814069854Z"
