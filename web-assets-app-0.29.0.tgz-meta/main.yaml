@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: web-assets-app-0.29.0.tgz
+dateCreated: '2026-04-01T08:26:29.019514Z'
+digest: 1c3d83caef7e2e07836019ec747671719fdcfd1b2754b422c4b202fb7de07cec
+home: https://github.com/giantswarm/web-assets
+icon: https://placekittens.com/100/100
