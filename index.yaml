@@ -39013,6 +39013,28 @@ entries:
     version: 0.0.3
   gel:
   - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "true"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/gel-1.0.2.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/gel-app/refs/tags/v1.0.2/README.md
+      io.giantswarm.application.team: shield
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/gel-app/refs/tags/v1.0.2/helm/gel/values.schema.json
+    apiVersion: v2
+    appVersion: "7.0"
+    created: "2026-04-21T19:20:37.299142027Z"
+    description: A Helm chart for deploying the Gel graph database.
+    digest: 9051ca04fcb6fec81a1a60d4d6f7d0fe8081d4a22ef68762d57cd4908fe9c8ef
+    home: https://github.com/giantswarm/gel-app
+    icon: https://s.giantswarm.io/app-icons/edgedb/light.svg
+    name: gel
+    sources:
+    - https://github.com/edgedb/edgedb
+    - https://github.com/Japan7/nanak8s/tree/main/charts/edgedb
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/gel-1.0.2.tgz
+    version: 1.0.2
+  - annotations:
       application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/gel-1.0.1.tgz-meta/main.yaml
       application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/gel-1.0.1.tgz-meta/README.md
       application.giantswarm.io/team: shield
@@ -68396,4 +68418,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-04-21T18:27:15.561708136Z"
+generated: "2026-04-21T19:20:37.298132596Z"

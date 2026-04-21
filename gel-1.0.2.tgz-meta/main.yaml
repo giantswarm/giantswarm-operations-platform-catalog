@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/team: shield
+chartApiVersion: v2
+chartFile: gel-1.0.2.tgz
+dateCreated: '2026-04-21T19:20:34.129626Z'
+digest: 9051ca04fcb6fec81a1a60d4d6f7d0fe8081d4a22ef68762d57cd4908fe9c8ef
+home: https://github.com/giantswarm/gel-app
+icon: https://s.giantswarm.io/app-icons/edgedb/light.svg
