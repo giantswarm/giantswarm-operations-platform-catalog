@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/team: shield
+chartApiVersion: v2
+chartFile: grafana-organization-0.0.1.tgz
+dateCreated: '2026-04-28T22:18:23.604796Z'
+digest: efb3084267d8646bf525db1733247e1d7f53b11cb23e0e06d0cb8e5311159eb6
+home: https://github.com/giantswarm/grafana-organization-app
+icon: https://s.giantswarm.io/app-icons/grafana/1/light.svg
