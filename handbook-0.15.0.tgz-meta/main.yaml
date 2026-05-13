@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: up
+chartApiVersion: v1
+chartFile: handbook-0.15.0.tgz
+dateCreated: '2026-05-13T08:29:54.021379Z'
+digest: 986357a3bd45c6a39f5180b57f8390bba03b7feb375f01da3506f48e07a55722
+home: https://github.com/giantswarm/handbook
+icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
