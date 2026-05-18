@@ -7752,6 +7752,24 @@ entries:
     version: 0.1.0
   docs-app:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.4.13.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs/refs/tags/v2.4.13/README.md
+      io.giantswarm.application.team: sig-docs
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs/refs/tags/v2.4.13/helm/docs-app/values.schema.json
+    apiVersion: v1
+    appVersion: 0.0.1
+    created: "2026-05-18T17:16:27.809205949Z"
+    description: Giant Swarm documentation published at https://docs.giantswarm.io/
+    digest: c45aca8ee57ac44d7226e6004ad6cbb46ee867117128f2a291b45574970c6833
+    home: https://github.com/giantswarm/docs/
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: docs-app
+    sources:
+    - https://github.com/giantswarm/docs
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.4.13.tgz
+    version: 2.4.13
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.4.12.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs/refs/tags/v2.4.12/README.md
       io.giantswarm.application.team: sig-docs
@@ -70550,4 +70568,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-05-18T16:25:26.995023592Z"
+generated: "2026-05-18T17:16:27.808725165Z"
