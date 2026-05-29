@@ -4,6 +4,19 @@ entries:
   - annotations:
       io.giantswarm.application.team: bumblebee
     apiVersion: v2
+    appVersion: 0.1.1
+    created: "2026-05-29T07:24:12.496969373Z"
+    description: Per-branch deployment of the agentic-platform-ui prototype.
+    digest: acb313ce91f6a8ea0bbe0de28042339bff759699ff371d0f3c6f3191633578ba
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: agentic-platform-ui
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/agentic-platform-ui-0.1.1.tgz
+    version: 0.1.1
+  - annotations:
+      io.giantswarm.application.team: bumblebee
+    apiVersion: v2
     appVersion: 0.1.0
     created: "2026-05-28T14:29:22.7474813Z"
     description: Per-branch deployment of the agentic-platform-ui prototype.
@@ -71349,4 +71362,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-05-29T06:11:04.957299683Z"
+generated: "2026-05-29T07:24:12.496380639Z"
