@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: web-assets-app-0.30.0.tgz
+dateCreated: '2026-06-02T21:38:30.489262Z'
+digest: 8e21231e3e2fde9e7d347a26d5f13512506d9f634552c292aa9c404bf7b18c55
+home: https://github.com/giantswarm/web-assets
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
