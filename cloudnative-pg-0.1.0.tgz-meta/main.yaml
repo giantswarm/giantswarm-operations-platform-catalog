@@ -1,0 +1,10 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/team: shield
+chartApiVersion: v2
+chartFile: cloudnative-pg-0.1.0.tgz
+dateCreated: '2026-06-04T12:33:37.264688Z'
+digest: 1ef11fac111a8ab2a2b7da09e644aadbf320315fdb4986c4648c6fd084882fe7
+home: https://github.com/giantswarm/cloudnative-pg-app
+icon: https://s.giantswarm.io/app-icons/cloudnative-pg/icon-light.svg
