@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   agentic-platform-ui:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/agentic-platform-ui-0.9.2.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/agentic-platform-ui/refs/tags/v0.9.2/README.md
+      io.giantswarm.application.team: bumblebee
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/agentic-platform-ui/refs/tags/v0.9.2/helm/agentic-platform-ui/values.schema.json
+    apiVersion: v2
+    appVersion: 0.9.2
+    created: "2026-06-09T16:16:45.52046814Z"
+    description: Per-branch deployment of the agentic-platform-ui prototype.
+    digest: 5338936641901334da4aad5b2feea02e7a4ff19c0e3b371138b3e75023bb214f
+    home: https://github.com/giantswarm/agentic-platform-ui
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: agentic-platform-ui
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/agentic-platform-ui-0.9.2.tgz
+    version: 0.9.2
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/agentic-platform-ui-0.9.1.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/agentic-platform-ui/refs/tags/v0.9.1/README.md
       io.giantswarm.application.team: bumblebee
@@ -72264,4 +72281,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-06-09T16:03:55.620892931Z"
+generated: "2026-06-09T16:16:45.519696754Z"
