@@ -42041,6 +42041,26 @@ entries:
   - annotations:
       io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.managed: "true"
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/grafana-organization-0.0.3.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/grafana-organization-app/refs/tags/v0.0.3/README.md
+      io.giantswarm.application.team: shield
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/grafana-organization-app/refs/tags/v0.0.3/helm/grafana-organization/values.schema.json
+    apiVersion: v2
+    appVersion: 0.0.3
+    created: "2026-06-12T06:59:17.520818122Z"
+    description: Giant Swarm Observability Platform GrafanaOrganization CR.
+    digest: 807decf6fc2e353246f1facc78939af4de25e793fe06a22a2daa96fd69a12c5e
+    home: https://github.com/giantswarm/grafana-organization-app
+    icon: https://s.giantswarm.io/app-icons/grafana/1/light.svg
+    name: grafana-organization
+    sources:
+    - https://github.com/giantswarm/grafana-organization-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/grafana-organization-0.0.3.tgz
+    version: 0.0.3
+  - annotations:
+      io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.managed: "true"
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/grafana-organization-0.0.2.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/grafana-organization-app/refs/tags/v0.0.2/README.md
       io.giantswarm.application.team: shield
@@ -72797,4 +72817,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-06-11T16:26:43.382774127Z"
+generated: "2026-06-12T06:59:17.520222541Z"
