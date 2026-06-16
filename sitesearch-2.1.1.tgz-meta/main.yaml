@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: sitesearch-2.1.1.tgz
+dateCreated: '2026-06-16T13:04:31.500642Z'
+digest: b093caf86bbbf6cbd91a7c5bf919d51b0053c719ad73d7e653141f4bb72df0ba
+home: https://github.com/giantswarm/sitesearch
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
