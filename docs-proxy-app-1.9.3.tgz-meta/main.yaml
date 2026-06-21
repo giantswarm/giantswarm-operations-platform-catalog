@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: docs-proxy-app-1.9.3.tgz
+dateCreated: '2026-06-21T15:18:49.026458Z'
+digest: bef95d06d5e1ee13b53c815bf0a5676e45a4284f0cd824cf65acc1b8df54b966
+home: https://github.com/giantswarm/docs-proxy
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
