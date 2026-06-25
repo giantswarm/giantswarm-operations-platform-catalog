@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+chartApiVersion: v1
+chartFile: release-exporter-0.1.3.tgz
+dateCreated: '2026-06-25T14:21:08.843024Z'
+digest: 60011fadab1e77b6f4bdbf053b90a898daec04bb842ee14c94e666c315e2d27d
+home: https://github.com/giantswarm/release-exporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
