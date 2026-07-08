@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: sig-docs
+chartApiVersion: v1
+chartFile: docs-app-2.13.14.tgz
+dateCreated: '2026-07-08T13:04:01.327397Z'
+digest: 233bb66073eaab71ad2b1b62bf04cc082c375d17493a0adbb97c008c4c7b6791
+home: https://github.com/giantswarm/docs/
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
