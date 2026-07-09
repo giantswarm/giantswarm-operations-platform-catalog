@@ -1,0 +1,9 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+chartApiVersion: v2
+chartFile: docs-indexer-app-4.1.20.tgz
+dateCreated: '2026-07-09T16:04:28.603387Z'
+digest: b117d2a73593eeee334acbbcd69c8f3df323306fd2f723c23ebfaa19c4af122f
+home: https://github.com/giantswarm/docs-indexer
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
