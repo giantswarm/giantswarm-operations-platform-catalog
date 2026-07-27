@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   agent-platform-ui:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/agent-platform-ui-0.14.23.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/agent-platform-ui/refs/tags/v0.14.23/README.md
+      io.giantswarm.application.team: bumblebee
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/agent-platform-ui/refs/tags/v0.14.23/helm/agent-platform-ui/values.schema.json
+    apiVersion: v2
+    appVersion: 0.14.23
+    created: "2026-07-27T07:00:28.083452754Z"
+    description: Per-branch deployment of the agent-platform-ui prototype.
+    digest: 782c46d79ef4b4394886cac8278a941f759bfcbd7bcc4490fed7ca5f1758f556
+    home: https://github.com/giantswarm/agent-platform-ui
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: agent-platform-ui
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/agent-platform-ui-0.14.23.tgz
+    version: 0.14.23
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/agent-platform-ui-0.14.22.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/agent-platform-ui/refs/tags/v0.14.22/README.md
       io.giantswarm.application.team: bumblebee
@@ -81977,4 +81994,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-07-25T09:54:05.716434042Z"
+generated: "2026-07-27T07:00:28.08272628Z"
