@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: phoenix
+chartApiVersion: v2
+chartFile: area-oncall-scheduler-0.27.12.tgz
+dateCreated: '2026-08-17T11:52:27.929090Z'
+digest: 5d1e37f5767640fca668b574c4cc345e8d289d5e5a4b50bfb4d395bdda809d6c
+home: https://github.com/giantswarm/area-oncall-scheduler
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
