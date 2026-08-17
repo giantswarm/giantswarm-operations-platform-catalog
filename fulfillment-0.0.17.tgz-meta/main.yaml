@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+chartApiVersion: v1
+chartFile: fulfillment-0.0.17.tgz
+dateCreated: '2026-08-17T11:48:31.507248Z'
+digest: df94885b061cec72767385362285200765e7a957cbb6215857fb6fe23cda19dd
+home: https://github.com/giantswarm/fulfillment
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
