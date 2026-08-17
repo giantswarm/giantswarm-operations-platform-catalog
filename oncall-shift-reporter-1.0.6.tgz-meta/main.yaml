@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+chartApiVersion: v1
+chartFile: oncall-shift-reporter-1.0.6.tgz
+dateCreated: '2026-08-17T11:41:54.258911Z'
+digest: cf6a10c6e0fd1671ad10523e1a6b00b8c59c56800f0f237fa9f8eac5936dd04e
+home: https://github.com/giantswarm/oncall-shift-reporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
