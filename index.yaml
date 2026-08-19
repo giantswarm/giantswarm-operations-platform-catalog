@@ -83171,6 +83171,22 @@ entries:
     version: 0.0.1
   operational-load-exporter:
   - annotations:
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.5.3.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/operational-load-exporter/refs/tags/v0.5.3/README.md
+      io.giantswarm.application.team: horizon
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/operational-load-exporter/refs/tags/v0.5.3/helm/operational-load-exporter/values.schema.json
+    apiVersion: v1
+    appVersion: 0.5.3
+    created: "2026-08-19T10:32:16.669564607Z"
+    description: A Helm chart for operational-load-exporter
+    digest: 95c07d49994a8ea8f0eaa628df312188793b94faf53f3dda69b9ef27bf906811
+    home: https://github.com/giantswarm/operational-load-exporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: operational-load-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.5.3.tgz
+    version: 0.5.3
+  - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.5.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/operational-load-exporter/refs/tags/v0.5.0/README.md
       io.giantswarm.application.team: horizon
@@ -86436,4 +86452,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-08-19T00:21:13.23585626Z"
+generated: "2026-08-19T10:32:16.668818208Z"
