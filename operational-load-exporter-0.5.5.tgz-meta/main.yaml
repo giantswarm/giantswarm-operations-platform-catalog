@@ -1,0 +1,8 @@
+annotations:
+  application.giantswarm.io/team: horizon
+chartApiVersion: v1
+chartFile: operational-load-exporter-0.5.5.tgz
+dateCreated: '2026-08-20T09:42:50.691027Z'
+digest: f430d185b3ce2187b34e83c511bfa8d79bdd7c75f3b2e7e8b23a8fbf5472c484
+home: https://github.com/giantswarm/operational-load-exporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
