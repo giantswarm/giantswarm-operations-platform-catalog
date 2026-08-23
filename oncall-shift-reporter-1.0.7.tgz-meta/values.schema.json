@@ -1,0 +1,55 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "global": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "podSecurityStandards": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "enforced": {
+                            "type": "boolean"
+                        }
+                    }
+                }
+            }
+        },
+        "image": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "registry": {
+                    "type": "string"
+                },
+                "tag": {
+                    "type": "string"
+                }
+            }
+        },
+        "pagerduty": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "auth_token": {
+                    "type": "string"
+                }
+            }
+        },
+        "slack": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "key": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
