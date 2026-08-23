@@ -50750,6 +50750,28 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/docs-proxy/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.11.4.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.11.4/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.11.4/helm/docs-proxy-app/values.schema.json
+    apiVersion: v2
+    appVersion: 1.11.4
+    created: "2026-08-23T13:01:44.848546465Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: 9571e514dc8a05ca29927e2542eebc66b0f1647e8d093b34e4ea3d16b6e6d9a7
+    home: https://github.com/giantswarm/docs-proxy
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.11.4.tgz
+    version: 1.11.4
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/docs-proxy/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.11.3.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.11.3/README.md
       io.giantswarm.application.team: honeybadger
@@ -87801,4 +87823,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-08-23T12:52:01.161263645Z"
+generated: "2026-08-23T13:01:44.847916712Z"
