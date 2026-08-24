@@ -1,0 +1,197 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "baseDomain": {
+            "type": "string"
+        },
+        "bootstrapMode": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "chartOperator": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "ciliumNetworkPolicy": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "cluster": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "clusterCA": {
+            "type": "string"
+        },
+        "clusterCIDR": {
+            "type": "string"
+        },
+        "clusterDNSIP": {
+            "type": "string"
+        },
+        "clusterID": {
+            "type": "string"
+        },
+        "gcpProject": {
+            "type": "string"
+        },
+        "global": {
+            "type": [
+                "object",
+                "null"
+            ],
+            "description": "Global values shared between all subcharts",
+            "$comment": "Added automatically by 'helm schema' to allow this chart to be used as a Helm dependency, as the `additionalProperties` setting would otherwise collide with Helm's special 'global' values key."
+        },
+        "image": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "registry": {
+                    "type": "string"
+                }
+            }
+        },
+        "name": {
+            "type": "string"
+        },
+        "namespace": {
+            "type": "string"
+        },
+        "provider": {
+            "type": "string"
+        },
+        "resources": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "limits": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "cpu": {
+                            "type": "string"
+                        },
+                        "ephemeralStorage": {
+                            "type": "string"
+                        },
+                        "memory": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "requests": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "cpu": {
+                            "type": "string"
+                        },
+                        "ephemeralStorage": {
+                            "type": "string"
+                        },
+                        "memory": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "route": {
+            "type": "object",
+            "description": "Gateway API Route configuration",
+            "additionalProperties": false,
+            "properties": {
+                "additionalRules": {
+                    "type": "array",
+                    "description": "Additional custom rules that can be added to the route"
+                },
+                "annotations": {
+                    "type": "object",
+                    "description": "Additional annotations to add to the route",
+                    "additionalProperties": false
+                },
+                "enabled": {
+                    "type": "boolean",
+                    "description": "Enable Gateway API HTTPRoute"
+                },
+                "filters": {
+                    "type": "array",
+                    "description": "Filters to apply to requests matching this rule"
+                },
+                "hostnames": {
+                    "type": "array",
+                    "description": "Hostnames for the route"
+                },
+                "kind": {
+                    "type": "string",
+                    "description": "Set the route kind Valid options are GRPCRoute, HTTPRoute, TCPRoute, TLSRoute, UDPRoute"
+                },
+                "labels": {
+                    "type": "object",
+                    "description": "Additional labels to add to the route",
+                    "additionalProperties": false
+                },
+                "matches": {
+                    "type": "array",
+                    "description": "Matching rules for the route",
+                    "items": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "properties": {
+                            "path": {
+                                "type": "object",
+                                "additionalProperties": false,
+                                "properties": {
+                                    "type": {
+                                        "type": "string"
+                                    },
+                                    "value": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Override the route name (defaults to .Values.name)"
+                },
+                "parentRefs": {
+                    "type": "array",
+                    "description": "Parent references (Gateway) for the route"
+                },
+                "securityPolicy": {
+                    "type": "object",
+                    "description": "Envoy Gateway SecurityPolicy configuration",
+                    "additionalProperties": false,
+                    "properties": {
+                        "annotations": {
+                            "type": "object",
+                            "description": "Additional annotations for SecurityPolicy",
+                            "additionalProperties": false
+                        },
+                        "enabled": {
+                            "type": "boolean",
+                            "description": "Enable SecurityPolicy for the route"
+                        },
+                        "labels": {
+                            "type": "object",
+                            "description": "Additional labels for SecurityPolicy",
+                            "additionalProperties": false
+                        }
+                    }
+                }
+            }
+        },
+        "subscriptionID": {
+            "type": "string"
+        }
+    }
+}
