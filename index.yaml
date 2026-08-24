@@ -50905,6 +50905,28 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/docs-proxy/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.11.5.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.11.5/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.11.5/helm/docs-proxy-app/values.schema.json
+    apiVersion: v2
+    appVersion: 1.11.5
+    created: "2026-08-24T08:19:07.62119668Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: d2ee64b1af5e67a6e6e949004023e465cb1426a54de3c5c106cc0665a6454bf6
+    home: https://github.com/giantswarm/docs-proxy
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.11.5.tgz
+    version: 1.11.5
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/docs-proxy/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.11.4.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.11.4/README.md
       io.giantswarm.application.team: honeybadger
@@ -88084,4 +88106,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-08-24T08:05:13.769559772Z"
+generated: "2026-08-24T08:19:07.620617073Z"
