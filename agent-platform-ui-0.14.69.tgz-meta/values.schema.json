@@ -1,0 +1,63 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "required": [
+        "slug"
+    ],
+    "additionalProperties": false,
+    "properties": {
+        "auth": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "basicAuth": {
+                    "type": "object",
+                    "required": [
+                        "htpasswd"
+                    ],
+                    "additionalProperties": false,
+                    "properties": {
+                        "htpasswd": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "global": {
+            "type": [
+                "object",
+                "null"
+            ],
+            "description": "Global values shared between all subcharts",
+            "$comment": "Added automatically by 'helm schema' to allow this chart to be used as a Helm dependency, as the `additionalProperties` setting would otherwise collide with Helm's special 'global' values key."
+        },
+        "siteping": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "enabled": {
+                    "type": "boolean"
+                },
+                "publicBaseUrl": {
+                    "type": "string"
+                },
+                "slackWebhookUrl": {
+                    "type": "string"
+                },
+                "storage": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "size": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "slug": {
+            "type": "string"
+        }
+    }
+}
