@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/logo: https://s.giantswarm.io/app-icons/backstage/1/logo.svg
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/backstage/issues\n"
+chartApiVersion: v2
+chartFile: backstage-0.201.1.tgz
+dateCreated: '2026-08-31T15:27:20.408473Z'
+digest: 6d5aca7ccbe88b7041283007e294ee9a575370be127d28e73945ef5772406c14
+home: https://github.com/giantswarm/backstage
+icon: https://s.giantswarm.io/app-icons/backstage/1/icon.svg
