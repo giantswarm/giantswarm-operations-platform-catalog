@@ -1,0 +1,14 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/managed: 'true'
+  application.giantswarm.io/team: shield
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/gel-app/issues\n- name:\
+    \ Upstream project\n  url: https://github.com/edgedb/edgedb\n"
+chartApiVersion: v2
+chartFile: gel-1.0.3.tgz
+dateCreated: '2026-09-02T21:52:35.338005Z'
+digest: 67cb6789737243e569242fe804b9be32d0e1a0f21226f6f30df47bbb8f65f50e
+home: https://github.com/giantswarm/gel-app
+icon: https://s.giantswarm.io/app-icons/edgedb/light.svg
