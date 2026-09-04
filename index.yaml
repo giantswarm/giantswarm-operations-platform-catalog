@@ -89484,6 +89484,26 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/oncall-shift-reporter/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.10.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/oncall-shift-reporter/refs/tags/v1.0.10/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/oncall-shift-reporter/refs/tags/v1.0.10/helm/oncall-shift-reporter/values.schema.json
+    apiVersion: v1
+    appVersion: 1.0.10
+    created: "2026-09-04T22:04:41.33836543Z"
+    description: A Helm chart for oncall-shift-reporter
+    digest: d3c852fe46520ae7112c3778332cf6db5eeccd0f6d622da3b62a9cf5e223c2eb
+    home: https://github.com/giantswarm/oncall-shift-reporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: oncall-shift-reporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.10.tgz
+    version: 1.0.10
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/oncall-shift-reporter/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/oncall-shift-reporter-1.0.9.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/oncall-shift-reporter/refs/tags/v1.0.9/README.md
       io.giantswarm.application.team: planeteers
@@ -93530,4 +93550,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-09-04T22:04:01.30500759Z"
+generated: "2026-09-04T22:04:41.337798676Z"
