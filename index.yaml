@@ -89725,6 +89725,26 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/operational-load-exporter/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.5.11.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/operational-load-exporter/refs/tags/v0.5.11/README.md
+      io.giantswarm.application.team: horizon
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/operational-load-exporter/refs/tags/v0.5.11/helm/operational-load-exporter/values.schema.json
+    apiVersion: v1
+    appVersion: 0.5.11
+    created: "2026-09-04T22:05:06.682791456Z"
+    description: A Helm chart for operational-load-exporter
+    digest: 911c573fdba6bd8fbfc8690b41b92c05714ad4d4aadab8485244207b24d21690
+    home: https://github.com/giantswarm/operational-load-exporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: operational-load-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.5.11.tgz
+    version: 0.5.11
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/operational-load-exporter/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/operational-load-exporter-0.5.10.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/operational-load-exporter/refs/tags/v0.5.10/README.md
       io.giantswarm.application.team: horizon
@@ -93550,4 +93570,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-09-04T22:04:41.337798676Z"
+generated: "2026-09-04T22:05:06.682116617Z"
