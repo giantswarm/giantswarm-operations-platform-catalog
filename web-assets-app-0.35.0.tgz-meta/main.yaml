@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/web-assets/issues\n"
+chartApiVersion: v2
+chartFile: web-assets-app-0.35.0.tgz
+dateCreated: '2026-09-05T06:27:15.823621Z'
+digest: 2f1c2693c0322c3512f35f92d58b7d3dcb4b8ed285e61a5da40df0908a2317d6
+home: https://github.com/giantswarm/web-assets
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
