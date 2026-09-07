@@ -6,6 +6,27 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/agent-platform-ui/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/agent-platform-ui-0.14.87.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/agent-platform-ui/refs/tags/v0.14.87/README.md
+      io.giantswarm.application.team: bumblebee
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/agent-platform-ui/refs/tags/v0.14.87/helm/agent-platform-ui/values.schema.json
+    apiVersion: v2
+    appVersion: 0.14.87
+    created: "2026-09-07T21:35:21.359828569Z"
+    description: Per-branch deployment of the agent-platform-ui prototype.
+    digest: c0f0ec23b44a9b73cfac7000079acc3b4ace4c22385abe147c3c2df87e262087
+    home: https://github.com/giantswarm/agent-platform-ui
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: agent-platform-ui
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/agent-platform-ui-0.14.87.tgz
+    version: 0.14.87
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/agent-platform-ui/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/agent-platform-ui-0.14.86.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/agent-platform-ui/refs/tags/v0.14.86/README.md
       io.giantswarm.application.team: bumblebee
@@ -95303,4 +95324,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-09-07T21:28:42.902156611Z"
+generated: "2026-09-07T21:35:21.358367095Z"
