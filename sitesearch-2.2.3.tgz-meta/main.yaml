@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/sitesearch/issues\n"
+chartApiVersion: v2
+chartFile: sitesearch-2.2.3.tgz
+dateCreated: '2026-09-10T07:50:47.428515Z'
+digest: a21eb82d7d8d68b040210ae4ae0f41c4a1b200ba70f4e7cd4dab0d9b5e12de47
+home: https://github.com/giantswarm/sitesearch
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
