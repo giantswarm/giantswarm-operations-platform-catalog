@@ -94932,6 +94932,27 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/web-assets/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.35.2.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/web-assets/refs/tags/v0.35.2/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/web-assets/refs/tags/v0.35.2/helm/web-assets-app/values.schema.json
+    apiVersion: v2
+    appVersion: 0.35.2
+    created: "2026-09-10T07:51:29.26497437Z"
+    description: Static files used on potentially multiple web sites
+    digest: b6e935143766a6e2b9f65751c4aa337df59dabdca2f82e967bbff689ffd3f2e7
+    home: https://github.com/giantswarm/web-assets
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: web-assets-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.35.2.tgz
+    version: 0.35.2
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/web-assets/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.35.1.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/web-assets/refs/tags/v0.35.1/README.md
       io.giantswarm.application.team: honeybadger
@@ -96436,4 +96457,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-09-10T07:51:07.4000928Z"
+generated: "2026-09-10T07:51:29.264235595Z"
