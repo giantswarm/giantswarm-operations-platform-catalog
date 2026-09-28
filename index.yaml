@@ -3630,6 +3630,28 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/area-oncall-scheduler/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.27.51.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/area-oncall-scheduler/refs/tags/v0.27.51/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/area-oncall-scheduler/refs/tags/v0.27.51/helm/area-oncall-scheduler/values.schema.json
+    apiVersion: v2
+    appVersion: 0.27.51
+    created: "2026-09-28T01:40:02.472751291Z"
+    description: A Helm chart for area-oncall-scheduler
+    digest: 0b757f13d0c8ccd6df222101fff5f51421e79bf2ac633e6999b6f69399028f01
+    home: https://github.com/giantswarm/area-oncall-scheduler
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: area-oncall-scheduler
+    sources:
+    - https://github.com/giantswarm/area-oncall-scheduler
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.27.51.tgz
+    version: 0.27.51
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/area-oncall-scheduler/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.27.50.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/area-oncall-scheduler/refs/tags/v0.27.50/README.md
       io.giantswarm.application.team: phoenix
@@ -104995,4 +105017,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-09-28T01:37:53.590248382Z"
+generated: "2026-09-28T01:40:02.471851312Z"
