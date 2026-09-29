@@ -69609,6 +69609,28 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/handbook/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.16.24.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/handbook/refs/tags/v0.16.24/README.md
+      io.giantswarm.application.team: up
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/handbook/refs/tags/v0.16.24/helm/handbook/values.schema.json
+    apiVersion: v1
+    appVersion: 0.16.24
+    created: "2026-09-29T16:36:00.698788821Z"
+    description: A Helm chart for out handbook
+    digest: 9f7ac2bdb42d7b8e201912a85fadd10b25c23ca657e3496dbb8599005bd1335c
+    home: https://github.com/giantswarm/handbook
+    icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
+    name: handbook
+    sources:
+    - https://github.com/giantswarm/handbook
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.16.24.tgz
+    version: 0.16.24
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/handbook/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/handbook-0.16.23.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/handbook/refs/tags/v0.16.23/README.md
       io.giantswarm.application.team: up
@@ -106095,4 +106117,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-09-29T16:20:43.59130767Z"
+generated: "2026-09-29T16:36:00.697779421Z"
