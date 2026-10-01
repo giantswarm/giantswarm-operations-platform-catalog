@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/blog/issues\n"
+chartApiVersion: v2
+chartFile: blog-app-1.6.0.tgz
+dateCreated: '2026-10-01T14:04:32.982594Z'
+digest: 67d237423e7320c480d1e5bd1289253218e42f626e0615995bd328ac936113c4
+home: https://github.com/giantswarm/blog
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
