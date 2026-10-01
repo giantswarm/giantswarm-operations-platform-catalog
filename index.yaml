@@ -70359,6 +70359,26 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/giantswarmio-nginx/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.8.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarmio-nginx/refs/tags/v0.8.0/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/giantswarmio-nginx/refs/tags/v0.8.0/helm/giantswarmio-nginx-app/values.schema.json
+    apiVersion: v2
+    appVersion: 0.8.0
+    created: "2026-10-01T14:05:11.019225054Z"
+    description: Serves redirects and a couple of static resources at https://giantswarm.io/
+    digest: 8c40457d4b80718f28a718a7963649e024c3bd6fc310c0866442c6ed398cf621
+    home: https://github.com/giantswarm/giantswarmio-nginx
+    icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
+    name: giantswarmio-nginx-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.8.0.tgz
+    version: 0.8.0
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/giantswarmio-nginx/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/giantswarmio-nginx-app-0.7.3.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarmio-nginx/refs/tags/v0.7.3/README.md
       io.giantswarm.application.team: honeybadger
@@ -107678,4 +107698,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-01T14:04:39.199617711Z"
+generated: "2026-10-01T14:05:11.018112936Z"
