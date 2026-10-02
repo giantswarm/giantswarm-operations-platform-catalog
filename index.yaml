@@ -64284,6 +64284,27 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/docs-indexer/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-4.3.18-rc.5.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-indexer/refs/tags/v4.3.18-rc.5/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-indexer/refs/tags/v4.3.18-rc.5/helm/docs-indexer-app/values.schema.json
+    apiVersion: v2
+    appVersion: 4.3.18-rc.5
+    created: "2026-10-02T04:03:07.087383561Z"
+    description: Indexes content for the docs search engine.
+    digest: 7d5aae13a8aab79648e402ee3ac318ec8b897bc5567755bccaa5f8bb46f73c6a
+    home: https://github.com/giantswarm/docs-indexer
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-indexer-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-4.3.18-rc.5.tgz
+    version: 4.3.18-rc.5
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/docs-indexer/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-4.3.18-rc.4.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-indexer/refs/tags/v4.3.18-rc.4/README.md
       io.giantswarm.application.team: honeybadger
@@ -108068,4 +108089,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-01T23:10:22.794220176Z"
+generated: "2026-10-02T04:03:07.08657353Z"
