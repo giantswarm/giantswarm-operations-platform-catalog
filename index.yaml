@@ -3777,6 +3777,28 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/area-oncall-scheduler/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.28.2.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/area-oncall-scheduler/refs/tags/v0.28.2/README.md
+      io.giantswarm.application.team: phoenix
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/area-oncall-scheduler/refs/tags/v0.28.2/helm/area-oncall-scheduler/values.schema.json
+    apiVersion: v2
+    appVersion: 0.28.2
+    created: "2026-10-03T04:42:37.163285078Z"
+    description: A Helm chart for area-oncall-scheduler
+    digest: 1298f1757c7bc4e7139c7adeebdf18f40daf76b978d6611b4d3c81362211fd05
+    home: https://github.com/giantswarm/area-oncall-scheduler
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: area-oncall-scheduler
+    sources:
+    - https://github.com/giantswarm/area-oncall-scheduler
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.28.2.tgz
+    version: 0.28.2
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/area-oncall-scheduler/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/area-oncall-scheduler-0.28.1.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/area-oncall-scheduler/refs/tags/v0.28.1/README.md
       io.giantswarm.application.team: phoenix
@@ -108780,4 +108802,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-02T20:38:12.93432587Z"
+generated: "2026-10-03T04:42:37.161681242Z"

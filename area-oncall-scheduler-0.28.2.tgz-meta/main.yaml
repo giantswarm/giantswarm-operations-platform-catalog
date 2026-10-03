@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: phoenix
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/area-oncall-scheduler/issues\n"
+chartApiVersion: v2
+chartFile: area-oncall-scheduler-0.28.2.tgz
+dateCreated: '2026-10-03T04:42:31.363734Z'
+digest: 1298f1757c7bc4e7139c7adeebdf18f40daf76b978d6611b4d3c81362211fd05
+home: https://github.com/giantswarm/area-oncall-scheduler
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
