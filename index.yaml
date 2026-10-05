@@ -77722,6 +77722,28 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/giantswarm/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.13.33.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarm/refs/tags/v0.13.33/README.md
+      io.giantswarm.application.team: up
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/giantswarm/refs/tags/v0.13.33/helm/intranet/values.schema.json
+    apiVersion: v1
+    appVersion: 0.13.33
+    created: "2026-10-05T10:49:42.28023988Z"
+    description: A Helm chart for our intranet
+    digest: dabc33269a6ad0f7eaccca40499e43809c7214e7af673abff3bacc07483e6c91
+    home: https://github.com/giantswarm/giantswarm
+    icon: https://s.giantswarm.io/app-icons/intranet/1/dark.svg
+    name: intranet
+    sources:
+    - https://github.com/giantswarm/giantswarm
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.13.33.tgz
+    version: 0.13.33
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/giantswarm/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.13.32.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/giantswarm/refs/tags/v0.13.32/README.md
       io.giantswarm.application.team: up
@@ -109192,4 +109214,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-05T10:48:31.625623899Z"
+generated: "2026-10-05T10:49:42.279087769Z"
