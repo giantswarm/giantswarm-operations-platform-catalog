@@ -69654,6 +69654,28 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/docs-proxy/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.12.1.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.12.1/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.12.1/helm/docs-proxy-app/values.schema.json
+    apiVersion: v2
+    appVersion: 1.12.1
+    created: "2026-10-11T15:58:25.510095294Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: ac32c89778e42797396d6f72cc994c584f86e2c2798111f523f502c728f88cc7
+    home: https://github.com/giantswarm/docs-proxy
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.12.1.tgz
+    version: 1.12.1
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/docs-proxy/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.12.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.12.0/README.md
       io.giantswarm.application.team: honeybadger
@@ -112039,4 +112061,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-11T15:12:34.755288591Z"
+generated: "2026-10-11T15:58:25.509430978Z"
