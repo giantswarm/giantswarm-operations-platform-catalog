@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: phoenix
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/resource-police/issues\n"
+chartApiVersion: v2
+chartFile: resource-police-1.6.1.tgz
+dateCreated: '2026-10-14T09:24:46.559446Z'
+digest: de15238f76921456a4c5e519b927278752d35f77d028f762f2f10527e5797c81
+home: https://github.com/giantswarm/resource-police
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
