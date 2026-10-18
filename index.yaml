@@ -108187,6 +108187,30 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/schema-server/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.1.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.1/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.1/helm/schema-server/values.schema.json
+      io.giantswarm.ui.logo: https://s.giantswarm.io/app-icons/json-schema/1/logo_light.svg
+    apiVersion: v2
+    appVersion: 0.4.1
+    created: "2026-10-18T08:50:04.725895897Z"
+    description: Serves JSON schema provided by Giant Swarm
+    digest: 94c1f8bb6dff8f5f5afca29fcf957cf62010ea63cda037f8200711e5a0a6504e
+    home: https://github.com/giantswarm/schema-server
+    icon: https://s.giantswarm.io/app-icons/json-schema/1/light.svg
+    name: schema-server
+    sources:
+    - https://github.com/giantswarm/schema-server
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.1.tgz
+    version: 0.4.1
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/schema-server/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.0.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.0/README.md
       io.giantswarm.application.team: honeybadger
@@ -111290,4 +111314,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-18T08:01:02.79352864Z"
+generated: "2026-10-18T08:50:04.725035219Z"
