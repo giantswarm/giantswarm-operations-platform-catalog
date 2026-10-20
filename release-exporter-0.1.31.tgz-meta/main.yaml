@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/release-exporter/issues\n"
+chartApiVersion: v1
+chartFile: release-exporter-0.1.31.tgz
+dateCreated: '2026-10-20T22:15:56.447423Z'
+digest: 21873dc087e3a73a36ea750d2c842ded628d77d7e30377e139365d994879675b
+home: https://github.com/giantswarm/release-exporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
