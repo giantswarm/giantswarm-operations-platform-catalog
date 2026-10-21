@@ -110327,6 +110327,28 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/sitesearch/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-2.2.14.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/sitesearch/refs/tags/v2.2.14/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/sitesearch/refs/tags/v2.2.14/helm/sitesearch/values.schema.json
+    apiVersion: v2
+    appVersion: 3.2.0
+    created: "2026-10-21T22:04:07.075769333Z"
+    description: OpenSearch-based search engine for the Giant Swarm documentation
+      at https://docs.giantswarm.io/
+    digest: 66410c4ed2fbbef66bd2d311d3092337a1e1bfbb5092994c9fc2d16b4c02631d
+    home: https://github.com/giantswarm/sitesearch
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    name: sitesearch
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-2.2.14.tgz
+    version: 2.2.14
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/sitesearch/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-2.2.13.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/sitesearch/refs/tags/v2.2.13/README.md
       io.giantswarm.application.team: honeybadger
@@ -113345,4 +113367,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-21T20:08:23.553059917Z"
+generated: "2026-10-21T22:04:07.075033606Z"
