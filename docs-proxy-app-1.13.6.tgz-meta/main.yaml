@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/docs-proxy/issues\n"
+chartApiVersion: v2
+chartFile: docs-proxy-app-1.13.6.tgz
+dateCreated: '2026-10-22T22:07:31.410428Z'
+digest: c6e854b1d9b563b3d5f745af73a2716b107e8a47ef92028d52113d8993a70c2f
+home: https://github.com/giantswarm/docs-proxy
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
