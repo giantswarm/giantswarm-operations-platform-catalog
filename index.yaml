@@ -112634,6 +112634,39 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/sitesearch-app-0.4.0.tgz
     version: 0.4.0
+  support-portal:
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/support-portal/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/support-portal-0.1.0.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/support-portal/refs/tags/v0.1.0/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/support-portal/refs/tags/v0.1.0/helm/support-portal/values.schema.json
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-10-23T16:26:23.489132921Z"
+    dependencies:
+    - condition: keycloak.enabled
+      name: keycloak
+      repository: ""
+      version: 0.1.0
+    description: Giant Swarm Support Portal. Customers raise and follow tickets that
+      live as GitHub issues in their repositories.
+    digest: c2d53578551a8c695dbe094927c4ae61f36a8655033cf642ab18572ad2b35e1c
+    home: https://github.com/giantswarm/support-portal
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    keywords:
+    - support
+    - portal
+    name: support-portal
+    sources:
+    - https://github.com/giantswarm/support-portal
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/support-portal-0.1.0.tgz
+    version: 0.1.0
   test-infra:
   - annotations:
       application.giantswarm.io/team: honeybadger
@@ -114836,4 +114869,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-23T14:45:51.574127743Z"
+generated: "2026-10-23T16:26:23.484945186Z"
