@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: up
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/giantswarm/issues\n"
+chartApiVersion: v1
+chartFile: intranet-0.16.13.tgz
+dateCreated: '2026-10-29T16:33:34.801153Z'
+digest: da4639babc0feba0f4101f58c017892c200abfd765cf92af39221f1b1c555b27
+home: https://github.com/giantswarm/giantswarm
+icon: https://s.giantswarm.io/app-icons/intranet/1/dark.svg
