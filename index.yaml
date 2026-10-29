@@ -70808,6 +70808,28 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/docs-proxy/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.13.9.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.13.9/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.13.9/helm/docs-proxy-app/values.schema.json
+    apiVersion: v2
+    appVersion: 1.13.9
+    created: "2026-10-29T21:59:41.211706782Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: de9ea50f9dd52702d357451e4049b86eea0a9792635ad40985725ec72abb2fd9
+    home: https://github.com/giantswarm/docs-proxy
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.13.9.tgz
+    version: 1.13.9
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/docs-proxy/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.13.8.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.13.8/README.md
       io.giantswarm.application.team: honeybadger
@@ -117251,4 +117273,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.1.2.tgz
     version: 0.1.2
-generated: "2026-10-29T21:57:37.365552907Z"
+generated: "2026-10-29T21:59:41.210823041Z"
