@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: horizon
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/operational-load-exporter/issues\n"
+chartApiVersion: v1
+chartFile: operational-load-exporter-0.7.6.tgz
+dateCreated: '2026-10-29T05:43:33.836813Z'
+digest: e61cc100393e80b96c9e414b49777468331b37f739ac6e64f9c422a6d845f48f
+home: https://github.com/giantswarm/operational-load-exporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
