@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: up
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/handbook/issues\n"
+chartApiVersion: v1
+chartFile: handbook-0.17.17.tgz
+dateCreated: '2026-10-31T22:25:13.676438Z'
+digest: 5fb16839f2b88b51200daa7fac5f3d15c8e8f05ec65936b7da34139312e631b5
+home: https://github.com/giantswarm/handbook
+icon: https://s.giantswarm.io/app-icons/handbook/1/dark.svg
