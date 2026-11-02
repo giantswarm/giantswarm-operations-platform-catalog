@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: bumblebee
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/agent-platform-ui/issues\n"
+chartApiVersion: v2
+chartFile: agent-platform-ui-0.15.36.tgz
+dateCreated: '2026-11-02T05:08:45.436219Z'
+digest: 32c9f1bb39a3e390d19d93a9d097b6cdf0c7a8b6e7ef87377584354014a84e61
+home: https://github.com/giantswarm/agent-platform-ui
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
