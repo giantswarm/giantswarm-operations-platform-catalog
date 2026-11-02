@@ -96794,6 +96794,30 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/schema-server/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.9.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.9/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.9/helm/schema-server/values.schema.json
+      io.giantswarm.ui.logo: https://s.giantswarm.io/app-icons/json-schema/1/logo_light.svg
+    apiVersion: v2
+    appVersion: 0.4.9
+    created: "2026-11-02T22:15:58.312471811Z"
+    description: Serves JSON schema provided by Giant Swarm
+    digest: 0066a508ffad5427a60359293f063355a0f28a6f75fc0d500c55fd2ddcd3acdf
+    home: https://github.com/giantswarm/schema-server
+    icon: https://s.giantswarm.io/app-icons/json-schema/1/light.svg
+    name: schema-server
+    sources:
+    - https://github.com/giantswarm/schema-server
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.9.tgz
+    version: 0.4.9
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/schema-server/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.8.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.8/README.md
       io.giantswarm.application.team: honeybadger
@@ -100053,4 +100077,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-02T22:15:39.751466754Z"
+generated: "2026-11-02T22:15:58.311738135Z"
