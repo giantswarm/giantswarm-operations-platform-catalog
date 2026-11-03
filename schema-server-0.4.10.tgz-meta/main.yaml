@@ -1,0 +1,13 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/schema-server/issues\n"
+  io.giantswarm.ui.logo: https://s.giantswarm.io/app-icons/json-schema/1/logo_light.svg
+chartApiVersion: v2
+chartFile: schema-server-0.4.10.tgz
+dateCreated: '2026-11-03T15:37:15.440662Z'
+digest: 6085b780b8441dde91c965d6af069a897290ba343e4b1cfbc34bf1a99dc365e5
+home: https://github.com/giantswarm/schema-server
+icon: https://s.giantswarm.io/app-icons/json-schema/1/light.svg
