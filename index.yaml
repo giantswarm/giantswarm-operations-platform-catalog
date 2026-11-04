@@ -98892,7 +98892,7 @@ entries:
       io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/support-portal/refs/tags/v0.1.11/helm/support-portal/values.schema.json
     apiVersion: v2
     appVersion: 0.1.11
-    created: "2026-11-04T05:55:14.513158256Z"
+    created: "2026-11-04T05:57:32.895993935Z"
     dependencies:
     - condition: keycloak.enabled
       name: keycloak
@@ -98900,7 +98900,7 @@ entries:
       version: 0.1.0
     description: Giant Swarm Support Portal. Customers raise and follow tickets that
       live as GitHub issues in their repositories.
-    digest: 1463529140b65d69fe605013cf6923457d3f62e5ddfbea8c4ece82adc010bad4
+    digest: 4b2f5e68c37e904018941b745fbd64af89b93a1ca58377d9242036b52b606a47
     home: https://github.com/giantswarm/support-portal
     icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
     keywords:
@@ -100881,4 +100881,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-04T05:55:14.509061368Z"
+generated: "2026-11-04T05:57:32.891143889Z"

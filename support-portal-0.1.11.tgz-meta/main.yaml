@@ -5,7 +5,7 @@ annotations:
   - "- name: Support\n  url: https://github.com/giantswarm/support-portal/issues\n"
 chartApiVersion: v2
 chartFile: support-portal-0.1.11.tgz
-dateCreated: '2026-11-04T05:55:10.392898Z'
-digest: 1463529140b65d69fe605013cf6923457d3f62e5ddfbea8c4ece82adc010bad4
+dateCreated: '2026-11-04T05:57:27.915025Z'
+digest: 4b2f5e68c37e904018941b745fbd64af89b93a1ca58377d9242036b52b606a47
 home: https://github.com/giantswarm/support-portal
 icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
