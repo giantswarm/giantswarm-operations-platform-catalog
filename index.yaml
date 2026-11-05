@@ -99024,6 +99024,38 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/support-portal/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/support-portal-0.1.12.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/support-portal/refs/tags/v0.1.12/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/support-portal/refs/tags/v0.1.12/helm/support-portal/values.schema.json
+    apiVersion: v2
+    appVersion: 0.1.12
+    created: "2026-11-05T05:59:25.246407779Z"
+    dependencies:
+    - condition: keycloak.enabled
+      name: keycloak
+      repository: ""
+      version: 0.1.0
+    description: Giant Swarm Support Portal. Customers raise and follow tickets that
+      live as GitHub issues in their repositories.
+    digest: 863f165fb954f70deca48d58b585220c41e81615b90bb0f11011a3a948c82c0a
+    home: https://github.com/giantswarm/support-portal
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/light.svg
+    keywords:
+    - support
+    - portal
+    name: support-portal
+    sources:
+    - https://github.com/giantswarm/support-portal
+    type: application
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/support-portal-0.1.12.tgz
+    version: 0.1.12
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/support-portal/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/support-portal-0.1.11.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/support-portal/refs/tags/v0.1.11/README.md
       io.giantswarm.application.team: planeteers
@@ -101019,4 +101051,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-05T05:42:51.54714109Z"
+generated: "2026-11-05T05:59:25.243279009Z"
