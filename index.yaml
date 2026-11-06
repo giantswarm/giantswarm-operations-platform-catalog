@@ -97125,6 +97125,26 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/release-exporter/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.43.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/release-exporter/refs/tags/v0.1.43/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/release-exporter/refs/tags/v0.1.43/helm/release-exporter/values.schema.json
+    apiVersion: v1
+    appVersion: 0.1.43
+    created: "2026-11-06T22:14:23.077360697Z"
+    description: A Helm chart for release-exporter
+    digest: 396c9b71d293e4a6e1b9cb2215f2aa2046a6d1f0dc0ed05ce513830959006847
+    home: https://github.com/giantswarm/release-exporter
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    name: release-exporter
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.43.tgz
+    version: 0.1.43
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/release-exporter/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/release-exporter-0.1.42.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/release-exporter/refs/tags/v0.1.42/README.md
       io.giantswarm.application.team: planeteers
@@ -101776,4 +101796,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-06T22:11:34.138665441Z"
+generated: "2026-11-06T22:14:23.07641993Z"
