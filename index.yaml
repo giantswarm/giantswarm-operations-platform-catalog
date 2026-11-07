@@ -98759,6 +98759,30 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/schema-server/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.12.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.12/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.12/helm/schema-server/values.schema.json
+      io.giantswarm.ui.logo: https://s.giantswarm.io/app-icons/json-schema/1/logo_light.svg
+    apiVersion: v2
+    appVersion: 0.4.12
+    created: "2026-11-07T22:11:45.616874466Z"
+    description: Serves JSON schema provided by Giant Swarm
+    digest: be15b37b18cb055237c9d3e819a81c26a06d03c67275afa1ba38a91cda9fb194
+    home: https://github.com/giantswarm/schema-server
+    icon: https://s.giantswarm.io/app-icons/json-schema/1/light.svg
+    name: schema-server
+    sources:
+    - https://github.com/giantswarm/schema-server
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.12.tgz
+    version: 0.4.12
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/schema-server/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.4.11.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/schema-server/refs/tags/v0.4.11/README.md
       io.giantswarm.application.team: honeybadger
@@ -102368,4 +102392,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-07T22:11:37.154543507Z"
+generated: "2026-11-07T22:11:45.616060328Z"
