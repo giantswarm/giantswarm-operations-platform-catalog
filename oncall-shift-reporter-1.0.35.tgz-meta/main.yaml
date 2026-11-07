@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/oncall-shift-reporter/issues\n"
+chartApiVersion: v1
+chartFile: oncall-shift-reporter-1.0.35.tgz
+dateCreated: '2026-11-07T22:10:31.835130Z'
+digest: c4ceab8e03a6607801c7e5dade2ddd0b6f753a5397eb480fa25fee17ab9f60f3
+home: https://github.com/giantswarm/oncall-shift-reporter
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
