@@ -57778,6 +57778,28 @@ entries:
         - name: Support
           url: https://github.com/giantswarm/docs-proxy/issues
       io.giantswarm.application.audience: giantswarm
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.13.15.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.13.15/README.md
+      io.giantswarm.application.team: honeybadger
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.13.15/helm/docs-proxy-app/values.schema.json
+    apiVersion: v2
+    appVersion: 1.13.15
+    created: "2026-11-09T12:51:31.022978684Z"
+    description: Reverse proxy that brings several documentation components together
+      at https://docs.giantswarm.io/
+    digest: 7be6728eeac11c0147e4baf3bac2ef95927989cd8c459f4a0a1612fd05e229ee
+    home: https://github.com/giantswarm/docs-proxy
+    icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
+    name: docs-proxy-app
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.13.15.tgz
+    version: 1.13.15
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/docs-proxy/issues
+      io.giantswarm.application.audience: giantswarm
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-proxy-app-1.13.14.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/docs-proxy/refs/tags/v1.13.14/README.md
       io.giantswarm.application.team: honeybadger
@@ -102629,4 +102651,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-09T12:50:10.018474343Z"
+generated: "2026-11-09T12:51:31.022133664Z"
