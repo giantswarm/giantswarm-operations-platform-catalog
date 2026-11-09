@@ -1,0 +1,11 @@
+annotations:
+  application.giantswarm.io/team: planeteers
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/fulfillment/issues\n"
+chartApiVersion: v2
+chartFile: fulfillment-0.1.36.tgz
+dateCreated: '2026-11-09T22:06:55.656345Z'
+digest: b649664b0720fe994cd6bdc1db1c9773292f9294247c71117b967248f67f84ed
+home: https://github.com/giantswarm/fulfillment
+icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg

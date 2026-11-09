@@ -59665,6 +59665,31 @@ entries:
       artifacthub.io/links: |
         - name: Support
           url: https://github.com/giantswarm/fulfillment/issues
+      io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.1.36.tgz-meta/main.yaml
+      io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/fulfillment/refs/tags/v0.1.36/README.md
+      io.giantswarm.application.team: planeteers
+      io.giantswarm.application.values-schema: https://raw.githubusercontent.com/giantswarm/fulfillment/refs/tags/v0.1.36/helm/fulfillment/values.schema.json
+    apiVersion: v2
+    appVersion: 0.1.36
+    created: "2026-11-09T22:06:56.866024504Z"
+    description: A Helm chart for fulfillment
+    digest: b649664b0720fe994cd6bdc1db1c9773292f9294247c71117b967248f67f84ed
+    home: https://github.com/giantswarm/fulfillment
+    icon: https://s.giantswarm.io/app-icons/prometheus/1/light.svg
+    keywords:
+    - fulfillment
+    - marketplace
+    - aws
+    - webhook
+    name: fulfillment
+    urls:
+    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.1.36.tgz
+    version: 0.1.36
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: Support
+          url: https://github.com/giantswarm/fulfillment/issues
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/fulfillment-0.1.35.tgz-meta/main.yaml
       io.giantswarm.application.readme: https://raw.githubusercontent.com/giantswarm/fulfillment/refs/tags/v0.1.35/README.md
       io.giantswarm.application.team: planeteers
@@ -102826,4 +102851,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-09T22:03:18.749683681Z"
+generated: "2026-11-09T22:06:56.865190178Z"
