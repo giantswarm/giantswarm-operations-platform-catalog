@@ -1,0 +1,12 @@
+annotations:
+  application.giantswarm.io/audience: giantswarm
+  application.giantswarm.io/team: honeybadger
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/links: !!python/object/new:app_build_suite.build_steps.helm_consts.BlockLiteralStr
+  - "- name: Support\n  url: https://github.com/giantswarm/docs-indexer/issues\n"
+chartApiVersion: v2
+chartFile: docs-indexer-app-4.3.46.tgz
+dateCreated: '2026-11-10T05:16:16.394170Z'
+digest: b1a55e0dde3bcffccc389d001e9eb0c53164f00489e2f8d9a91354779dbae1f3
+home: https://github.com/giantswarm/docs-indexer
+icon: https://s.giantswarm.io/app-icons/giantswarm/1/dark.svg
