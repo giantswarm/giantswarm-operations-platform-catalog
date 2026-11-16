@@ -32996,23 +32996,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.10.2.tgz
     version: 0.10.2
-  - annotations:
-      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.10.1.tgz-meta/main.yaml
-      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.10.1.tgz-meta/README.md
-      application.giantswarm.io/team: team-honeybadger
-      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.10.1.tgz-meta/values.schema.json
-      ui.giantswarm.io/logo: https://s.giantswarm.io/app-icons/backstage/1/logo.svg
-    apiVersion: v1
-    appVersion: 0.10.1
-    created: "2023-11-15T10:13:15.070544014Z"
-    description: The Giant Swarm developer portal.
-    digest: 31217dba4ed6529cd50645955668fd9c8520b669d1cc8bfbdff993c783cb0b99
-    home: https://github.com/giantswarm/backstage
-    icon: https://s.giantswarm.io/app-icons/backstage/1/icon.svg
-    name: backstage
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/backstage-0.10.1.tgz
-    version: 0.10.1
   blog-app:
   - annotations:
       artifacthub.io/license: Apache-2.0
@@ -33613,16 +33596,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.8.0.tgz
     version: 0.8.0
-  - apiVersion: v1
-    appVersion: 0.7.0
-    created: "2023-11-10T12:21:36.549430989Z"
-    description: Helm chart for crsync retagging tool
-    digest: 9a24862e6dd4f394aa3dfdacab2f2fb04a6ba7e649b51647c4c0e729925195cd
-    home: https://github.com/giantswarm/crsync
-    name: crsync
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/crsync-0.7.0.tgz
-    version: 0.7.0
   docs-app:
   - annotations:
       artifacthub.io/license: Apache-2.0
@@ -56170,56 +56143,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.950.tgz
     version: 2.2.950
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-11-16T10:39:38.30436025Z"
-    description: Giant Swarm documentation published at https://docs.giantswarm.io/
-    digest: c04a489ab79e954a3de2c097c80e34a80688ef4b70d88028c3d7a60390669c72
-    home: https://github.com/giantswarm/docs/
-    name: docs-app
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.949.tgz
-    version: 2.2.949
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-11-15T18:10:47.937404983Z"
-    description: Giant Swarm documentation published at https://docs.giantswarm.io/
-    digest: 97064a8b87f44d307b06d009cd3d36bba889da325be3cb4330f36326ac54fc61
-    home: https://github.com/giantswarm/docs/
-    name: docs-app
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.948.tgz
-    version: 2.2.948
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-11-14T05:01:00.01063966Z"
-    description: Giant Swarm documentation published at https://docs.giantswarm.io/
-    digest: e29e04be68aef7f8d684e0ed71f4f42dfc17c919a6aa8aa4b55739a492d4673c
-    home: https://github.com/giantswarm/docs/
-    name: docs-app
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.947.tgz
-    version: 2.2.947
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-11-10T17:46:40.0782808Z"
-    description: Giant Swarm documentation published at https://docs.giantswarm.io/
-    digest: 80d6b468e47cb9299752b15c2bc85697eddabf37784942502a789f5794431455
-    home: https://github.com/giantswarm/docs/
-    name: docs-app
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.946.tgz
-    version: 2.2.946
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-11-10T09:47:50.920146431Z"
-    description: Giant Swarm documentation published at https://docs.giantswarm.io/
-    digest: c455ebe09efe12fdb36a39b432b21fed4a4520c4fa2f2b8077bd3dae6a54ec4d
-    home: https://github.com/giantswarm/docs/
-    name: docs-app
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-app-2.2.945.tgz
-    version: 2.2.945
   docs-indexer-app:
   - annotations:
       artifacthub.io/license: Apache-2.0
@@ -58593,16 +58516,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-3.3.1.tgz
     version: 3.3.1
-  - apiVersion: v1
-    appVersion: 3.3.0
-    created: "2023-11-10T12:27:48.456428759Z"
-    description: Indexes content for the docs search engine.
-    digest: eb3aeb73794615d9ec439ae5725204638e06e1fc903524e6444dbd353f23feb2
-    home: https://github.com/giantswarm/docs-indexer
-    name: docs-indexer-app
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/docs-indexer-app-3.3.0.tgz
-    version: 3.3.0
   docs-proxy-app:
   - annotations:
       artifacthub.io/license: Apache-2.0
@@ -97665,76 +97578,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.9.tgz
     version: 0.1.9
-  - annotations:
-      application.giantswarm.io/team: team
-    apiVersion: v1
-    appVersion: main
-    created: "2023-11-16T09:42:23.174886034Z"
-    description: A Helm chart for our intranet
-    digest: e19bd0b7f07e8b675d72d5fc8f09e59063ca432dd287497239cc55b44f3e0fd0
-    home: https://github.com/giantswarm/giantswarm
-    name: intranet
-    sources:
-    - https://github.com/giantswarm/giantswarm
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.8.tgz
-    version: 0.1.8
-  - annotations:
-      application.giantswarm.io/team: team
-    apiVersion: v1
-    appVersion: main
-    created: "2023-11-16T09:03:58.555181696Z"
-    description: A Helm chart for our intranet
-    digest: 843e08c8e1be07080483eb0e79ffcb36e4cbbae48da365e1c75f9668f2d73861
-    home: https://github.com/giantswarm/giantswarm
-    name: intranet
-    sources:
-    - https://github.com/giantswarm/giantswarm
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.7.tgz
-    version: 0.1.7
-  - annotations:
-      application.giantswarm.io/team: team
-    apiVersion: v1
-    appVersion: main
-    created: "2023-11-15T22:04:24.337821017Z"
-    description: A Helm chart for our intranet
-    digest: 31c3e1cb56e727867c996b9ebe94099d412e9414949b265f32f33530443c02a3
-    home: https://github.com/giantswarm/giantswarm
-    name: intranet
-    sources:
-    - https://github.com/giantswarm/giantswarm
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.6.tgz
-    version: 0.1.6
-  - annotations:
-      application.giantswarm.io/team: team
-    apiVersion: v1
-    appVersion: main
-    created: "2023-11-14T10:23:16.720058631Z"
-    description: A Helm chart for our intranet
-    digest: b246a7d5df7bf098b84d2751c80d83826c7479f3e47ffbf3e5336707fbbc6310
-    home: https://github.com/giantswarm/giantswarm
-    name: intranet
-    sources:
-    - https://github.com/giantswarm/giantswarm
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.1.tgz
-    version: 0.1.1
-  - annotations:
-      application.giantswarm.io/team: team
-    apiVersion: v1
-    appVersion: main
-    created: "2023-11-14T02:12:13.999808186Z"
-    description: A Helm chart for our intranet
-    digest: 710e1ab51fc99f5d2c886ca7bb551044a6ffbe06a51aa8b8543a51ca1a58a5b1
-    home: https://github.com/giantswarm/giantswarm
-    name: intranet
-    sources:
-    - https://github.com/giantswarm/giantswarm
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/intranet-0.1.0.tgz
-    version: 0.1.0
   nginx-proxy:
   - annotations:
       io.giantswarm.application.metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/nginx-proxy-0.3.1.tgz-meta/main.yaml
@@ -101139,24 +100982,6 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.1.tgz
     version: 0.1.1
-  - annotations:
-      application.giantswarm.io/metadata: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz-meta/main.yaml
-      application.giantswarm.io/readme: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz-meta/README.md
-      application.giantswarm.io/team: team-rainbow
-      application.giantswarm.io/values-schema: https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz-meta/values.schema.json
-    apiVersion: v2
-    appVersion: 0.0.1
-    created: "2023-11-10T12:58:45.354622088Z"
-    description: Serves JSON schema provided by Giant Swarm
-    digest: 394b781f1b6b97cfea01d324e6bd4ca964a2dd9aab6e238738f198d4681c4231
-    home: https://github.com/giantswarm/schema-server
-    icon: https://camo.githubusercontent.com/752aea2bb973cd0af33354afe331a41dbff16ff2d4e7fcdb97078349096b926d/68747470733a2f2f6a736f6e2d736368656d612e6f72672f6173736574732f6c6f676f2e737667
-    name: schema-server
-    sources:
-    - https://github.com/giantswarm/schema-server
-    urls:
-    - https://giantswarm.github.io/giantswarm-operations-platform-catalog/schema-server-0.1.0.tgz
-    version: 0.1.0
   sitesearch:
   - annotations:
       artifacthub.io/license: Apache-2.0
@@ -104491,4 +104316,4 @@ entries:
     urls:
     - https://giantswarm.github.io/giantswarm-operations-platform-catalog/web-assets-app-0.7.32.tgz
     version: 0.7.32
-generated: "2026-11-15T18:22:34.581545166Z"
+generated: "2026-11-16T06:05:04.422436613Z"
